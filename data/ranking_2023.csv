@@ -1,0 +1,501 @@
+    ,rider                        ,team                                    ,points2023
+  0 ,Tadej  Pogačar               ,UAE Team Emirates                       ,    7685.9
+  1 ,Jonas  Vingegaard            ,Jumbo-Visma                             ,    6304.1
+  2 ,Remco  Evenepoel             ,Soudal Quick-Step                       ,    5631.7
+  3 ,Primož  Roglič               ,Jumbo-Visma                             ,    5603.4
+  4 ,Wout van Aert                ,Jumbo-Visma                             ,    4762
+  5 ,Mads  Pedersen               ,Lidl - Trek                             ,    4606.1
+  6 ,Mathieu van der Poel         ,Alpecin - Deceuninck                    ,    4163
+  7 ,Adam  Yates                  ,UAE Team Emirates                       ,    4007.9
+  8 ,Jasper  Philipsen            ,Alpecin - Deceuninck                    ,    3912
+  9 ,João  Almeida                ,UAE Team Emirates                       ,    3110.6
+ 10 ,Simon  Yates                 ,Team Jayco AlUla                        ,    3087.3
+ 11 ,Marc  Hirschi                ,UAE Team Emirates                       ,    2997
+ 12 ,Mattias  Skjelmose           ,Lidl - Trek                             ,    2908.1
+ 13 ,Arnaud De Lie                ,Lotto Dstny                             ,    2891
+ 14 ,Filippo  Ganna               ,INEOS Grenadiers                        ,    2877
+ 15 ,Sepp  Kuss                   ,Jumbo-Visma                             ,    2615.5
+ 16 ,Pello  Bilbao                ,Bahrain - Victorious                    ,    2432.1
+ 17 ,Christophe  Laporte          ,Jumbo-Visma                             ,    2311
+ 18 ,Mikel  Landa                 ,Bahrain - Victorious                    ,    2283.6
+ 19 ,Matej  Mohorič               ,Bahrain - Victorious                    ,    2230
+ 20 ,Thibaut  Pinot               ,Groupama - FDJ                          ,    2207
+ 21 ,Ben  Healy                   ,EF Education - EasyPost                 ,    2163
+ 22 ,Stefan  Küng                 ,Groupama - FDJ                          ,    2065.6
+ 23 ,Kaden  Groves                ,Alpecin - Deceuninck                    ,    2043.2
+ 24 ,Neilson  Powless             ,EF Education - EasyPost                 ,    2042.7
+ 25 ,Aleksandr  Vlasov            ,BORA - hansgrohe                        ,    2040.6
+ 26 ,Valentin  Madouas            ,Groupama - FDJ                          ,    2024
+ 27 ,Thomas  Pidcock              ,INEOS Grenadiers                        ,    1989
+ 28 ,Juan  Ayuso                  ,UAE Team Emirates                       ,    1943.6
+ 29 ,Olav  Kooij                  ,Jumbo-Visma                             ,    1907.6
+ 30 ,Geraint  Thomas              ,INEOS Grenadiers                        ,    1838
+ 31 ,Tiesj  Benoot                ,Jumbo-Visma                             ,    1773
+ 32 ,Felix  Gall                  ,AG2R Citroën Team                       ,    1741
+ 33 ,Andrea  Bagioli              ,Soudal Quick-Step                       ,    1680
+ 34 ,Matteo  Jorgenson            ,Movistar Team                           ,    1665
+ 35 ,Guillaume  Martin            ,Cofidis                                 ,    1657
+ 36 ,Jai  Hindley                 ,BORA - hansgrohe                        ,    1652
+ 37 ,Rui  Costa                   ,Intermarché - Circus - Wanty            ,    1634.9
+ 38 ,Carlos  Rodríguez            ,INEOS Grenadiers                        ,    1618
+ 39 ,David  Gaudu                 ,Groupama - FDJ                          ,    1597.6
+ 40 ,Giulio  Ciccone              ,Lidl - Trek                             ,    1597
+ 41 ,Damiano  Caruso              ,Bahrain - Victorious                    ,    1563.3
+ 42 ,Alex  Aranburu               ,Movistar Team                           ,    1548
+ 43 ,Florian  Vermeersch          ,Lotto Dstny                             ,    1547
+ 44 ,Santiago  Buitrago           ,Bahrain - Victorious                    ,    1526.3
+ 45 ,Alexey  Lutsenko             ,Astana Qazaqstan Team                   ,    1485.3
+ 46 ,Michael  Woods               ,Israel - Premier Tech                   ,    1478
+ 47 ,Andreas  Kron                ,Lotto Dstny                             ,    1477.2
+ 48 ,Michael  Matthews            ,Team Jayco AlUla                        ,    1450.3
+ 49 ,Enric  Mas                   ,Movistar Team                           ,    1450.2
+ 50 ,Romain  Bardet               ,Team dsm - firmenich                    ,    1446.5
+ 51 ,Brandon  McNulty             ,UAE Team Emirates                       ,    1407.4
+ 52 ,Ben  O'Connor                ,AG2R Citroën Team                       ,    1397
+ 53 ,Ilan Van Wilder              ,Soudal Quick-Step                       ,    1364
+ 54 ,Ion  Izagirre                ,Cofidis                                 ,    1340
+ 55 ,Dylan  Groenewegen           ,Team Jayco AlUla                        ,    1329.4
+ 56 ,Pavel  Sivakov               ,INEOS Grenadiers                        ,    1299.3
+ 57 ,Axel  Zingle                 ,Cofidis                                 ,    1284
+ 58 ,Toms  Skujiņš                ,Lidl - Trek                             ,    1275
+ 59 ,Gerben  Thijssen             ,Intermarché - Circus - Wanty            ,    1210
+ 60 ,Jordi  Meeus                 ,BORA - hansgrohe                        ,    1204
+ 61 ,Tobias Halland  Johannessen  ,Uno-X Pro Cycling Team                  ,    1187
+ 62 ,Corbin  Strong               ,Israel - Premier Tech                   ,    1184
+ 63 ,Lennard  Kämna               ,BORA - hansgrohe                        ,    1182.6
+ 64 ,Bryan  Coquard               ,Cofidis                                 ,    1180.1
+ 65 ,Søren Kragh Andersen         ,Alpecin - Deceuninck                    ,    1173
+ 66 ,Derek  Gee                   ,Israel - Premier Tech                   ,    1156
+ 67 ,Maxim Van Gils               ,Lotto Dstny                             ,    1150
+ 68 ,Alexander  Kristoff          ,Uno-X Pro Cycling Team                  ,    1149
+ 69 ,Rasmus  Tiller               ,Uno-X Pro Cycling Team                  ,    1138
+ 70 ,Jasper  Stuyven              ,Lidl - Trek                             ,    1136
+ 71 ,Romain  Grégoire             ,Groupama - FDJ                          ,    1125.5
+ 72 ,Tim  Merlier                 ,Soudal Quick-Step                       ,    1125.4
+ 73 ,Einer  Rubio                 ,Movistar Team                           ,    1124.4
+ 74 ,Tao  Geoghegan Hart          ,INEOS Grenadiers                        ,    1123
+ 75 ,Arnaud  Démare               ,Team Arkéa Samsic                       ,    1106.6
+ 76 ,Jonathan  Milan              ,Bahrain - Victorious                    ,    1100.7
+ 77 ,Yves  Lampaert               ,Soudal Quick-Step                       ,    1065.7
+ 78 ,Wout  Poels                  ,Bahrain - Victorious                    ,    1038.5
+ 79 ,Danny van Poppel             ,BORA - hansgrohe                        ,    1028
+ 80 ,Richard  Carapaz             ,EF Education - EasyPost                 ,    1014
+ 81 ,Milan  Menten                ,Lotto Dstny                             ,     996.2
+ 82 ,Sam  Welsford                ,Team dsm - firmenich                    ,     991.1
+ 83 ,Cian  Uijtdebroeks           ,BORA - hansgrohe                        ,     984.1
+ 84 ,Lorenzo  Rota                ,Intermarché - Circus - Wanty            ,     984
+ 85 ,Juan Sebastián  Molano       ,UAE Team Emirates                       ,     977.5
+ 86 ,Caleb  Ewan                  ,Lotto Dstny                             ,     965
+ 87 ,Julian  Alaphilippe          ,Soudal Quick-Step                       ,     938
+ 88 ,Kasper  Asgreen              ,Soudal Quick-Step                       ,     930.7
+ 89 ,Tim  Wellens                 ,UAE Team Emirates                       ,     917.9
+ 90 ,Jay  Vine                    ,UAE Team Emirates                       ,     917.5
+ 91 ,Matteo  Trentin              ,UAE Team Emirates                       ,     912.9
+ 92 ,Simone  Velasco              ,Astana Qazaqstan Team                   ,     907
+ 93 ,Filippo  Zana                ,Team Jayco AlUla                        ,     889
+ 94 ,Victor  Lafay                ,Cofidis                                 ,     887
+ 95 ,Mauro  Schmid                ,Soudal Quick-Step                       ,     884.7
+ 96 ,Mathieu  Burgaudeau          ,TotalEnergies                           ,     878
+ 97 ,Jesús  Herrada               ,Cofidis                                 ,     877.8
+ 98 ,Lenny  Martinez              ,Groupama - FDJ                          ,     875.5
+ 99 ,Søren  Wærenskjold           ,Uno-X Pro Cycling Team                  ,     872
+100 ,Felix  Großschartner         ,UAE Team Emirates                       ,     867.9
+101 ,Diego  Ulissi                ,UAE Team Emirates                       ,     864
+102 ,Mark  Cavendish              ,Astana Qazaqstan Team                   ,     856.3
+103 ,Georg  Zimmermann            ,Intermarché - Circus - Wanty            ,     852
+104 ,Jasper De Buyst              ,Lotto Dstny                             ,     849
+105 ,Paul  Penhoët                ,Groupama - FDJ                          ,     847
+106 ,Henok  Mulubrhan             ,Green Project - Bardiani CSF - Faizanè  ,     844.8
+107 ,Magnus  Sheffield            ,INEOS Grenadiers                        ,     839
+108 ,Edward  Theuns               ,Lidl - Trek                             ,     818
+109 ,Marijn van den Berg          ,EF Education - EasyPost                 ,     801.2
+110 ,Eddie  Dunbar                ,Team Jayco AlUla                        ,     798
+111 ,Attila  Valter               ,Jumbo-Visma                             ,     794.4
+112 ,Biniam  Girmay               ,Intermarché - Circus - Wanty            ,     793
+113 ,Warren  Barguil              ,Team Arkéa Samsic                       ,     786
+114 ,Michał  Kwiatkowski          ,INEOS Grenadiers                        ,     772.3
+115 ,Luca  Mozzato                ,Team Arkéa Samsic                       ,     767
+116 ,Orluis  Aular                ,Caja Rural - Seguros RGA                ,     752
+117 ,Mike  Teunissen              ,Intermarché - Circus - Wanty            ,     751
+118 ,Matteo  Moschetti            ,Q36.5 Pro Cycling Team                  ,     748
+119 ,Oier  Lazkano                ,Movistar Team                           ,     745.4
+120 ,Iván  García Cortina         ,Movistar Team                           ,     741.4
+121 ,Davide  Formolo              ,UAE Team Emirates                       ,     739
+122 ,Joshua  Tarling              ,INEOS Grenadiers                        ,     726.2
+123 ,Rémi  Cavagna                ,Soudal Quick-Step                       ,     718.3
+124 ,Lennert Van Eetvelt          ,Lotto Dstny                             ,     713.2
+125 ,Vincenzo  Albanese           ,EOLO-Kometa                             ,     708
+126 ,Hugh  Carthy                 ,EF Education - EasyPost                 ,     703.9
+127 ,Alberto  Dainese             ,Team dsm - firmenich                    ,     702.5
+128 ,Mikkel  Bjerg                ,UAE Team Emirates                       ,     701.3
+129 ,Marc  Soler                  ,UAE Team Emirates                       ,     701
+130 ,Andrea  Vendrame             ,AG2R Citroën Team                       ,     697
+131 ,Fabio  Jakobsen              ,Soudal Quick-Step                       ,     688
+132 ,Arvid de Kleijn              ,Tudor Pro Cycling Team                  ,     680
+133 ,Alexander  Kamp              ,Tudor Pro Cycling Team                  ,     679
+134 ,Jack  Haig                   ,Bahrain - Victorious                    ,     674.7
+135 ,Magnus  Cort                 ,EF Education - EasyPost                 ,     671.7
+136 ,Pascal  Ackermann            ,UAE Team Emirates                       ,     670
+137 ,Andreas  Leknessund          ,Team dsm - firmenich                    ,     668.1
+138 ,Cristián  Rodríguez          ,Team Arkéa Samsic                       ,     667
+139 ,Max  Poole                   ,Team dsm - firmenich                    ,     664.5
+140 ,Patrick  Konrad              ,BORA - hansgrohe                        ,     657
+141 ,Thymen  Arensman             ,INEOS Grenadiers                        ,     645
+142 ,Dries Van Gestel             ,TotalEnergies                           ,     642
+143 ,Jambaljamts  Sainbayar       ,Terengganu Polygon Cycling Team         ,     640
+144 ,Aurélien  Paret-Peintre      ,AG2R Citroën Team                       ,     637
+145 ,Phil  Bauhaus                ,Bahrain - Victorious                    ,     632.1
+146 ,Jhonatan  Narváez            ,INEOS Grenadiers                        ,     631.3
+147 ,Ethan  Vernon                ,Soudal Quick-Step                       ,     631
+148 ,Simon  Clarke                ,Israel - Premier Tech                   ,     628
+149 ,Kévin  Vauquelin             ,Team Arkéa Samsic                       ,     628
+150 ,Nico  Denz                   ,BORA - hansgrohe                        ,     625.1
+151 ,Fernando  Gaviria            ,Movistar Team                           ,     617
+152 ,John  Degenkolb              ,Team dsm - firmenich                    ,     616
+153 ,Miguel Ángel  López          ,Team Medellín - EPM                     ,     612
+154 ,Hugo  Page                   ,Intermarché - Circus - Wanty            ,     611.9
+155 ,Nils  Politt                 ,BORA - hansgrohe                        ,     611.1
+156 ,Ethan  Hayter                ,INEOS Grenadiers                        ,     610
+157 ,Sergio  Higuita              ,BORA - hansgrohe                        ,     607.1
+158 ,Max  Walscheid               ,Cofidis                                 ,     592
+159 ,Mattia  Cattaneo             ,Soudal Quick-Step                       ,     591
+160 ,Alberto  Bettiol             ,EF Education - EasyPost                 ,     590.7
+161 ,Laurence  Pithie             ,Groupama - FDJ                          ,     587
+162 ,Dylan  Teuns                 ,Israel - Premier Tech                   ,     581
+163 ,Giacomo  Nizzolo             ,Israel - Premier Tech                   ,     575
+164 ,Felix  Engelhardt            ,Team Jayco AlUla                        ,     574
+165 ,Sep  Vanmarcke               ,                                        ,     574
+166 ,Achraf  Ed Doghmy            ,Kawkab AC Marrakech                     ,     570
+167 ,Dorian  Godon                ,AG2R Citroën Team                       ,     569
+168 ,Rafał  Majka                 ,UAE Team Emirates                       ,     564
+169 ,Eric Antonio  Fagúndez       ,Burgos - BH                             ,     562
+170 ,Roger  Adrià                 ,Equipo Kern Pharma                      ,     561
+171 ,Benoît  Cosnefroy            ,AG2R Citroën Team                       ,     557
+172 ,Matteo  Sobrero              ,Team Jayco AlUla                        ,     549.6
+173 ,Jefferson Alexander  Cepeda  ,EF Education - EasyPost                 ,     549
+174 ,Marius  Mayrhofer            ,Team dsm - firmenich                    ,     546
+175 ,Clément  Venturini           ,AG2R Citroën Team                       ,     539
+176 ,Michael  Storer              ,Groupama - FDJ                          ,     538.5
+177 ,Dylan van Baarle             ,Jumbo-Visma                             ,     538.5
+178 ,Wilco  Kelderman             ,Jumbo-Visma                             ,     535.5
+179 ,Lewis  Askey                 ,Groupama - FDJ                          ,     518.5
+180 ,Timo  Kielich                ,Alpecin-Deceuninck Development Team     ,     517
+181 ,Jenthe  Biermans             ,Team Arkéa Samsic                       ,     507
+182 ,Clément  Berthet             ,AG2R Citroën Team                       ,     499
+183 ,Davide  Ballerini            ,Soudal Quick-Step                       ,     498
+184 ,Cees  Bol                    ,Astana Qazaqstan Team                   ,     495.3
+185 ,Emanuel  Buchmann            ,BORA - hansgrohe                        ,     491
+186 ,Kobe  Goossens               ,Intermarché - Circus - Wanty            ,     482.9
+187 ,Antonio  Tiberi              ,Bahrain - Victorious                    ,     481.8
+188 ,Ruben  Guerreiro             ,Movistar Team                           ,     480.2
+189 ,Ben  Tulett                  ,INEOS Grenadiers                        ,     478.9
+190 ,Arne  Marit                  ,Intermarché - Circus - Wanty            ,     478
+191 ,Tom Van Asbroeck             ,Israel - Premier Tech                   ,     477
+192 ,Kevin  Vermaerke             ,Team dsm - firmenich                    ,     474
+193 ,Frederik  Frison             ,Lotto Dstny                             ,     474
+194 ,Anthony  Perez               ,Cofidis                                 ,     471
+195 ,Nils  Eekhoff                ,Team dsm - firmenich                    ,     471
+196 ,Bruno  Armirail              ,Groupama - FDJ                          ,     470.7
+197 ,Milan  Vader                 ,Jumbo-Visma                             ,     464
+198 ,Matthew  Dinham              ,Team dsm - firmenich                    ,     463
+199 ,Eduardo  Sepúlveda           ,Lotto Dstny                             ,     460.2
+200 ,Anthony  Turgis              ,TotalEnergies                           ,     460
+201 ,Clément  Champoussin         ,Team Arkéa Samsic                       ,     456
+202 ,Fred  Wright                 ,Bahrain - Victorious                    ,     455.7
+203 ,Ben  Zwiehoff                ,BORA - hansgrohe                        ,     455
+204 ,Lorenzo  Fortunato           ,EOLO-Kometa                             ,     453
+205 ,Nathan Van Hooydonck         ,Jumbo-Visma                             ,     452.6
+206 ,Valentin  Ferron             ,TotalEnergies                           ,     451
+207 ,Sandy  Dujardin              ,TotalEnergies                           ,     451
+208 ,Christian  Scaroni           ,Astana Qazaqstan Team                   ,     449
+209 ,Elia  Viviani                ,INEOS Grenadiers                        ,     443.9
+210 ,Brent Van Moer               ,Lotto Dstny                             ,     441
+211 ,Itamar  Einhorn              ,Israel - Premier Tech                   ,     436
+212 ,George  Jackson              ,Bolton Equities Black Spoke             ,     433
+213 ,Óscar  Sevilla               ,Team Medellín - EPM                     ,     431
+214 ,Stephen  Williams            ,Israel - Premier Tech                   ,     430
+215 ,Yevgeniy  Fedorov            ,Astana Qazaqstan Team                   ,     429.3
+216 ,Stefan  Bissegger            ,EF Education - EasyPost                 ,     428.3
+217 ,Hugo  Hofstetter             ,Team Arkéa Samsic                       ,     427
+218 ,Lionel  Taminiaux            ,Alpecin - Deceuninck                    ,     423
+219 ,Luke  Plapp                  ,INEOS Grenadiers                        ,     422.9
+220 ,Fredrik  Dversnes            ,Uno-X Pro Cycling Team                  ,     421
+221 ,Yacine  Hamza                ,Dubai Police Cycling Team               ,     419
+222 ,Nans  Peters                 ,AG2R Citroën Team                       ,     418
+223 ,Geoffrey  Soupe              ,TotalEnergies                           ,     412
+224 ,Daniel Felipe  Martínez      ,INEOS Grenadiers                        ,     411.3
+225 ,Jonathan  Castroviejo        ,INEOS Grenadiers                        ,     411
+226 ,Rudy  Molard                 ,Groupama - FDJ                          ,     408.1
+227 ,Krists  Neilands             ,Israel - Premier Tech                   ,     408
+228 ,Per Strand  Hagenes          ,Jumbo-Visma Development Team            ,     408
+229 ,Rory  Townsend               ,Bolton Equities Black Spoke             ,     400
+230 ,Simon  Carr                  ,EF Education - EasyPost                 ,     399.6
+231 ,Filippo  Fiorelli            ,Green Project - Bardiani CSF - Faizanè  ,     399
+232 ,Daniil  Marukhin             ,Vino SKO Team                           ,     396
+233 ,Florian  Sénéchal            ,Soudal Quick-Step                       ,     394.7
+234 ,Steff  Cras                  ,TotalEnergies                           ,     391
+235 ,Damien  Howson               ,Q36.5 Pro Cycling Team                  ,     390
+236 ,Sebastian  Berwick           ,Israel - Premier Tech                   ,     389
+237 ,Cedric  Beullens             ,Lotto Dstny                             ,     388
+238 ,Timothy  Dupont              ,Tarteletto - Isorex                     ,     388
+239 ,Pelayo  Sánchez              ,Burgos - BH                             ,     387
+240 ,Esteban  Chaves              ,EF Education - EasyPost                 ,     386
+241 ,Oscar  Onley                 ,Team dsm - firmenich                    ,     385.5
+242 ,Sven Erik  Bystrøm           ,Intermarché - Circus - Wanty            ,     385
+243 ,Thibau  Nys                  ,Lidl - Trek                             ,     385
+244 ,Pascal  Eenkhoorn            ,Lotto Dstny                             ,     380
+245 ,Alex  Kirsch                 ,Lidl - Trek                             ,     379.1
+246 ,Pier-André  Côté             ,Human Powered Health                    ,     379
+247 ,Rémy  Rochas                 ,Cofidis                                 ,     374.8
+248 ,Stan Van Tricht              ,Soudal Quick-Step                       ,     374
+249 ,Riley  Sheehan               ,Denver Disruptors                       ,     374
+250 ,Adil El Arbaoui              ,AVC Khourigba                           ,     372
+251 ,Gianni  Vermeersch           ,Alpecin - Deceuninck                    ,     369
+252 ,Axel  Laurance               ,Alpecin-Deceuninck Development Team     ,     368
+253 ,Francesco  Busatto           ,Circus - ReUz - Technord                ,     368
+254 ,Gonzalo  Serrano             ,Movistar Team                           ,     365
+255 ,Tegsh-bayar  Batsaikhan      ,Roojai Online Insurance                 ,     365
+256 ,Alec  Segaert                ,Lotto Dstny                             ,     362.6
+257 ,Tim van Dijke                ,Jumbo-Visma                             ,     362.3
+258 ,Élie  Gesbert                ,Team Arkéa Samsic                       ,     361
+259 ,German Nicolás  Tivani       ,Team Corratec - Selle Italia            ,     361
+260 ,Pierre  Latour               ,TotalEnergies                           ,     360
+261 ,Adam  Ťoupalík               ,Elkov - Kasper                          ,     359
+262 ,Rasmus Bøgh  Wallin          ,Restaurant Suri - Carl Ras              ,     359
+263 ,Matis  Louvel                ,Team Arkéa Samsic                       ,     358
+264 ,Jakub  Otruba                ,ATT Investments                         ,     358
+265 ,Amanuel  Ghebreigzabhier     ,Lidl - Trek                             ,     357.1
+266 ,Stefano  Oldani              ,Alpecin - Deceuninck                    ,     356
+267 ,Rigoberto  Urán              ,EF Education - EasyPost                 ,     353
+268 ,Anton  Kuzmin                ,Almaty Astana Motors                    ,     352
+269 ,Jason  Tesson                ,TotalEnergies                           ,     350
+270 ,Casper  Pedersen             ,Soudal Quick-Step                       ,     349
+271 ,Sjoerd  Bax                  ,UAE Team Emirates                       ,     349
+272 ,Mark  Donovan                ,Q36.5 Pro Cycling Team                  ,     347
+273 ,Luka  Mezgec                 ,Team Jayco AlUla                        ,     346.4
+274 ,Chris  Harper                ,Team Jayco AlUla                        ,     346.3
+275 ,Alessandro  Fedeli           ,Q36.5 Pro Cycling Team                  ,     345
+276 ,Andrea  Pasqualon            ,Bahrain - Victorious                    ,     340
+277 ,Tobias Lund  Andresen        ,Team dsm - firmenich                    ,     339.1
+278 ,Harold  Tejada               ,Astana Qazaqstan Team                   ,     337.3
+279 ,Dmitriy  Bocharov            ,Samarkand Professional Cycling Team     ,     336.7
+280 ,Christopher  Rougier-Lagane  ,Team MCB                                ,     334.1
+281 ,Louis  Meintjes              ,Intermarché - Circus - Wanty            ,     334
+282 ,Natnael  Tesfatsion          ,Lidl - Trek                             ,     333
+283 ,Bauke  Mollema               ,Lidl - Trek                             ,     333
+284 ,Gino  Mäder                  ,Bahrain - Victorious                    ,     331.7
+285 ,Nelson  Oliveira             ,Movistar Team                           ,     325.2
+286 ,Enrico  Zanoncello           ,Green Project - Bardiani CSF - Faizanè  ,     325
+287 ,Greg Van Avermaet            ,AG2R Citroën Team                       ,     322
+288 ,George  Bennett              ,UAE Team Emirates                       ,     318.4
+289 ,Egan  Bernal                 ,INEOS Grenadiers                        ,     318
+290 ,Alexis  Renard               ,Cofidis                                 ,     318
+291 ,Giulio  Pellizzari           ,Green Project - Bardiani CSF - Faizanè  ,     318
+292 ,António  Morgado             ,Hagens Berman Axeon                     ,     318
+293 ,Torstein  Træen              ,Uno-X Pro Cycling Team                  ,     315
+294 ,Tom  Sexton                  ,Bolton Equities Black Spoke             ,     314
+295 ,Jarne Van de Paar            ,Lotto Dstny                             ,     313
+296 ,Laurens De Plus              ,INEOS Grenadiers                        ,     313
+297 ,Laurenz  Rex                 ,Intermarché - Circus - Wanty            ,     311
+298 ,Georg  Steinhauser           ,EF Education - EasyPost                 ,     310.6
+299 ,Rui  Oliveira                ,UAE Team Emirates                       ,     310.5
+300 ,Stanisław  Aniołkowski       ,Human Powered Health                    ,     309
+301 ,Yuma  Koishi                 ,JCL Team UKYO                           ,     309
+302 ,Drew  Morey                  ,Kinan Cycling Team                      ,     308
+303 ,Louis  Barré                 ,Team Arkéa Samsic                       ,     306
+304 ,Yannis  Voisard              ,Tudor Pro Cycling Team                  ,     303
+305 ,Owain  Doull                 ,EF Education - EasyPost                 ,     300.7
+306 ,Walter  Calzoni              ,Q36.5 Pro Cycling Team                  ,     298
+307 ,Yevgeniy  Gidich             ,Astana Qazaqstan Team                   ,     297
+308 ,Simone  Consonni             ,Cofidis                                 ,     297
+309 ,Finn  Fisher-Black           ,UAE Team Emirates                       ,     296.6
+310 ,Sylvain  Moniquet            ,Lotto Dstny                             ,     295.2
+311 ,Peter  Sagan                 ,TotalEnergies                           ,     293
+312 ,Quinten  Hermans             ,Alpecin - Deceuninck                    ,     292
+313 ,Sam  Bennett                 ,BORA - hansgrohe                        ,     290
+314 ,Brady  Gilmore               ,ARA | Skip Capital                      ,     289
+315 ,Quinn  Simmons               ,Lidl - Trek                             ,     288
+316 ,Anatoliy  Budyak             ,Terengganu Polygon Cycling Team         ,     287
+317 ,Burak  Abay                  ,Konya Buyuksehir Belediye Spor          ,     286
+318 ,Rune  Herregodts             ,Intermarché - Circus - Wanty            ,     284.9
+319 ,Gorka  Izagirre              ,Movistar Team                           ,     282
+320 ,Mathias  Bregnhøj            ,Leopard TOGT Pro Cycling                ,     282
+321 ,Gleb  Brussenskiy            ,Astana Qazaqstan Team                   ,     281
+322 ,Lorenzo  Milesi              ,Team dsm - firmenich                    ,     279.5
+323 ,Jesús David  Peña            ,Team Jayco AlUla                        ,     277
+324 ,Mathias  Vacek               ,Lidl - Trek                             ,     276
+325 ,Gregor  Mühlberger           ,Movistar Team                           ,     276
+326 ,Florian  Lipowitz            ,BORA - hansgrohe                        ,     275.4
+327 ,Alessandro  Tonelli          ,Green Project - Bardiani CSF - Faizanè  ,     273
+328 ,Giovanni  Aleotti            ,BORA - hansgrohe                        ,     272
+329 ,Mirco  Maestri               ,EOLO-Kometa                             ,     272
+330 ,Ivo  Oliveira                ,UAE Team Emirates                       ,     271.4
+331 ,Polychronis  Tzortzakis      ,Roojai Online Insurance                 ,     271
+332 ,Davide  Piganzoli            ,EOLO-Kometa                             ,     269
+333 ,Yukiya  Arashiro             ,Bahrain - Victorious                    ,     268
+334 ,Nicolas  Prodhomme           ,AG2R Citroën Team                       ,     267
+335 ,Tobias  Foss                 ,Jumbo-Visma                             ,     264.6
+336 ,Samuele  Battistella         ,Astana Qazaqstan Team                   ,     264
+337 ,Hugo  Houle                  ,Israel - Premier Tech                   ,     263
+338 ,Márton  Dina                 ,ATT Investments                         ,     263
+339 ,Lilian  Calmejane            ,Intermarché - Circus - Wanty            ,     260
+340 ,Jakub  Mareczko              ,Alpecin - Deceuninck                    ,     260
+341 ,Mauri  Vansevenant           ,Soudal Quick-Step                       ,     257
+342 ,William Junior  Lecerf       ,Soudal - Quick-Step Devo Team           ,     255.2
+343 ,Kyung-Gu  Jang               ,Eumseong gu Office                      ,     255
+344 ,Lukáš  Kubiš                 ,Dukla Banska Bystrica                   ,     255
+345 ,Benjamín  Prades             ,JCL Team UKYO                           ,     254
+346 ,Liam  Walsh                  ,Team BridgeLane                         ,     253
+347 ,Tony  Gallopin               ,Lidl - Trek                             ,     251
+348 ,Isaac del Toro               ,A.R. Monex Pro CyclingTeam              ,     250
+349 ,Casper van Uden              ,Team dsm - firmenich                    ,     249
+350 ,Samuel  Watson               ,Groupama - FDJ                          ,     248.5
+351 ,Chris  Hamilton              ,Team dsm - firmenich                    ,     247.5
+352 ,Madis  Mihkels               ,Intermarché - Circus - Wanty            ,     247
+353 ,Will  Barta                  ,Movistar Team                           ,     245.1
+354 ,Norbert  Banaszek            ,HRE Mazowsze Serce Polski               ,     245
+355 ,Ben  Turner                  ,INEOS Grenadiers                        ,     244
+356 ,Ben  Hermans                 ,Israel - Premier Tech                   ,     244
+357 ,Franklin  Archibold          ,Panamá es Cultura y Valores             ,     243
+358 ,Emīls  Liepiņš               ,Lidl - Trek                             ,     242.1
+359 ,Masaki  Yamamoto             ,JCL Team UKYO                           ,     242
+360 ,Behzodek  Rakhimbaev         ,Tashkent City Professional Cycling Team ,     241.3
+361 ,Adne van Engelen             ,Roojai Online Insurance                 ,     241
+362 ,Ahmet  Örken                 ,Spor Toto Cycling Team                  ,     241
+363 ,Mark  Stewart                ,Bolton Equities Black Spoke             ,     241
+364 ,Victor  Campenaerts          ,Lotto Dstny                             ,     241
+365 ,Ewen  Costiou                ,Team Arkéa Samsic                       ,     239
+366 ,Abdulla  Jasim Al-Ali        ,Al Wathba Cycling Team                  ,     239
+367 ,Kevin  Geniets               ,Groupama - FDJ                          ,     238.6
+368 ,Kamiel  Bonneu               ,Team Flanders - Baloise                 ,     238
+369 ,Nícolas  Sessler             ,Global 6 Cycling                        ,     238
+370 ,Matúš  Štoček                ,ATT Investments                         ,     236
+371 ,Marco  Frigo                 ,Israel - Premier Tech                   ,     235
+372 ,Jonathan Klever  Caicedo     ,EF Education - EasyPost                 ,     234.9
+373 ,James  Piccoli               ,China Glory Continental Cycling Team    ,     234
+374 ,David de la Cruz             ,Astana Qazaqstan Team                   ,     234
+375 ,Saeid  Safarzadeh            ,Tianyoude Hotel Cycling Team            ,     234
+376 ,Rein  Taaramäe               ,Intermarché - Circus - Wanty            ,     233.9
+377 ,Jonas  Rutsch                ,EF Education - EasyPost                 ,     231
+378 ,Lukas  Pöstlberger           ,Team Jayco AlUla                        ,     230
+379 ,James  Shaw                  ,EF Education - EasyPost                 ,     230
+380 ,Max  Kanter                  ,Movistar Team                           ,     229
+381 ,Tyler  Stites                ,Project Echelon Racing                  ,     226
+382 ,James  Knox                  ,Soudal Quick-Step                       ,     226
+383 ,Georgios  Bouglas            ,Matrix Powertag                         ,     225
+384 ,Atsushi  Oka                 ,JCL Team UKYO                           ,     224
+385 ,Rohan  Dennis                ,Jumbo-Visma                             ,     223.6
+386 ,Piet  Allegaert              ,Cofidis                                 ,     223
+387 ,Marcin  Budziński            ,HRE Mazowsze Serce Polski               ,     223
+388 ,Benjamin  Dyball             ,Victoire Hiroshima                      ,     222
+389 ,Colin  Stüssi                ,Team Vorarlberg                         ,     222
+390 ,Edvald  Boasson Hagen        ,TotalEnergies                           ,     221
+391 ,Nick  Schultz                ,Israel - Premier Tech                   ,     221
+392 ,Maximilian  Stedman          ,Beykoz Belediyesi Spor Kulübü           ,     220.4
+393 ,Matthew  Riccitello          ,Israel - Premier Tech                   ,     219
+394 ,Logan  Currie                ,Bolton Equities Black Spoke             ,     219
+395 ,Paul  Daumont                ,AS Bessel                               ,     219
+396 ,Gianluca  Brambilla          ,Q36.5 Pro Cycling Team                  ,     219
+397 ,Domenico  Pozzovivo          ,Israel - Premier Tech                   ,     219
+398 ,Tijmen  Graat                ,Jumbo-Visma Development Team            ,     217
+399 ,Carlos  Canal                ,Euskaltel - Euskadi                     ,     216
+400 ,Geoffrey  Bouchard           ,AG2R Citroën Team                       ,     216
+401 ,Youcef  Reguigui             ,Terengganu Polygon Cycling Team         ,     216
+402 ,James  Oram                  ,Bolton Equities Black Spoke             ,     215
+403 ,Pierre  Gautherat            ,AG2R Citroën Team                       ,     215
+404 ,Eddy  Finé                   ,Cofidis                                 ,     214
+405 ,Lucas  Carstensen            ,Roojai Online Insurance                 ,     213
+406 ,Ide  Schelling               ,BORA - hansgrohe                        ,     213
+407 ,Lucas  Eriksson              ,Tudor Pro Cycling Team                  ,     212
+408 ,Romain  Cardis               ,St Michel - Mavic - Auber93             ,     212
+409 ,Iván Ramiro  Sosa            ,Movistar Team                           ,     212
+410 ,Thanakhan  Chaiyasombat      ,Thailand Continental Cycling Team       ,     211
+411 ,Aaron  Gate                  ,Bolton Equities Black Spoke             ,     211
+412 ,Dmitriy  Gruzdev             ,Astana Qazaqstan Team                   ,     210.6
+413 ,Robbe  Ghys                  ,Alpecin - Deceuninck                    ,     210.2
+414 ,Fausto  Masnada              ,Soudal Quick-Step                       ,     210
+415 ,Jonas  Abrahamsen            ,Uno-X Pro Cycling Team                  ,     208
+416 ,Joan  Bou                    ,Euskaltel - Euskadi                     ,     207
+417 ,Stan  Dewulf                 ,AG2R Citroën Team                       ,     207
+418 ,Connor  Swift                ,INEOS Grenadiers                        ,     206.3
+419 ,Bart  Lemmen                 ,Human Powered Health                    ,     206
+420 ,Daniel  McLay                ,Team Arkéa Samsic                       ,     206
+421 ,Koen  Bouwman                ,Jumbo-Visma                             ,     205.9
+422 ,Julien  Bernard              ,Lidl - Trek                             ,     205.1
+423 ,Fabio  Christen              ,Q36.5 Pro Cycling Team                  ,     204.7
+424 ,Marco  Tizza                 ,Bingoal WB                              ,     204
+425 ,Jack  Rootkin-Gray           ,Saint Piran                             ,     204
+426 ,Hamza  Amari                 ,Q36.5 Continental Team                  ,     203.5
+427 ,Gal  Glivar                  ,Adria Mobil                             ,     202
+428 ,Dries De Bondt               ,Alpecin - Deceuninck                    ,     201
+429 ,Muradjan  Khalmuratov        ,Tashkent City Professional Cycling Team ,     200.3
+430 ,Jordan  Jegat                ,CIC U Nantes Atlantique                 ,     200
+431 ,Cristian  Raileanu           ,Hengxiang Cycling Team                  ,     200
+432 ,Erlend  Blikra               ,Uno-X Pro Cycling Team                  ,     200
+433 ,Hamish  McKenzie             ,ARA | Skip Capital                      ,     200
+434 ,Andrey  Zeits                ,Astana Qazaqstan Team                   ,     199
+435 ,Jordi  Warlop                ,Soudal - Quick-Step Devo Team           ,     199
+436 ,Wan Yau Vincent  Lau         ,HKSI Pro Cycling Team                   ,     198.3
+437 ,Jon  Barrenetxea             ,Caja Rural - Seguros RGA                ,     198
+438 ,Thibault  Guernalec          ,Team Arkéa Samsic                       ,     198
+439 ,Filippo  Fortin              ,Maloja Pushbikers                       ,     198
+440 ,Nickolas  Zukowsky           ,Q36.5 Pro Cycling Team                  ,     198
+441 ,Davide  Bais                 ,EOLO-Kometa                             ,     198
+442 ,Ali  Labib Shotorban         ,Mes Sungun - Azad                       ,     196
+443 ,Conor  White                 ,Austin Aviators                         ,     195
+444 ,Jeroen  Meijers              ,Terengganu Polygon Cycling Team         ,     194
+445 ,Iúri  Leitão                 ,Caja Rural - Seguros RGA                ,     194
+446 ,Iván  Romeo                  ,Movistar Team                           ,     193.3
+447 ,Nikias  Arndt                ,Bahrain - Victorious                    ,     192.1
+448 ,Ariya  Phounsavath           ,Roojai Online Insurance                 ,     191
+449 ,Sarawut  Sirironnachai       ,Thailand Continental Cycling Team       ,     191
+450 ,Oded  Kogut                  ,Israel Premier Tech Academy             ,     191
+451 ,Cedrik Bakke  Christophersen ,Team Coop - Repsol                      ,     191
+452 ,Alessandro  Covi             ,UAE Team Emirates                       ,     190
+453 ,Jakob  Fuglsang              ,Israel - Premier Tech                   ,     190
+454 ,Marco  Haller                ,BORA - hansgrohe                        ,     189.1
+455 ,Luke  Lamperti               ,Trinity Racing                          ,     189
+456 ,Kaden  Hopkins               ,Vendée U                                ,     189
+457 ,Hartthijs de Vries           ,TDT - Unibet Cycling Team               ,     189
+458 ,Carlos  Verona               ,Movistar Team                           ,     188.1
+459 ,Gotzon  Martín               ,Euskaltel - Euskadi                     ,     188
+460 ,Valentin  Paret-Peintre      ,AG2R Citroën Team                       ,     188
+461 ,Mohcine El Kouraji           ,Al Shafar Jumeirah Cycling Team         ,     188
+462 ,Matteo  Badilatti            ,Q36.5 Pro Cycling Team                  ,     188
+463 ,Darren  Rafferty             ,Hagens Berman Axeon                     ,     188
+464 ,Stefan de Bod                ,EF Education - EasyPost                 ,     187.6
+465 ,Patrick  Gamper              ,BORA - hansgrohe                        ,     186.9
+466 ,Maximilian  Schachmann       ,BORA - hansgrohe                        ,     186.1
+467 ,Pablo  Castrillo             ,Equipo Kern Pharma                      ,     186
+468 ,Martijn  Budding             ,TDT - Unibet Cycling Team               ,     186
+469 ,Ruslan  Aliyev               ,Almaty Astana Motors                    ,     186
+470 ,Davide  Baldaccini           ,Team Corratec - Selle Italia            ,     186
+471 ,Milan  Fretin                ,Team Flanders - Baloise                 ,     185
+472 ,Renus  Byiza Uhiriwe         ,CR4C Roanne                             ,     185
+473 ,Byron  Guamá                 ,Movistar - Best PC                      ,     182.1
+474 ,Magnus Bak  Klaris           ,Restaurant Suri - Carl Ras              ,     182
+475 ,Nicola  Conci                ,Alpecin - Deceuninck                    ,     181
+476 ,Julien  Trarieux             ,China Glory Continental Cycling Team    ,     181
+477 ,Nikiforos  Arvanitou         ,Sofer Savini Due OMZ                    ,     181
+478 ,Walter  Vargas               ,Team Medellín - EPM                     ,     180
+479 ,Mikkel Frølich  Honoré       ,EF Education - EasyPost                 ,     179
+480 ,Filippo  Magli               ,Green Project - Bardiani CSF - Faizanè  ,     178
+481 ,Martín  Vidaurre             ,Trinity Racing                          ,     178
+482 ,Odd Christian  Eiking        ,EF Education - EasyPost                 ,     177
+483 ,Martin  Marcellusi           ,Green Project - Bardiani CSF - Faizanè  ,     176
+484 ,Sergey  Rostovtsev           ,Beykoz Belediyesi Spor Kulübü           ,     175
+485 ,Frederik  Wandahl            ,BORA - hansgrohe                        ,     175
+486 ,Thomas  Gloag                ,Jumbo-Visma                             ,     175
+487 ,David  Dekker                ,Team Arkéa Samsic                       ,     175
+488 ,Lucas  Hamilton              ,Team Jayco AlUla                        ,     174.3
+489 ,Paul  Ourselin               ,TotalEnergies                           ,     172
+490 ,Jordi  López                 ,Equipo Kern Pharma                      ,     172
+491 ,Fernando  Barceló            ,Caja Rural - Seguros RGA                ,     171
+492 ,Antoine  Huby                ,Vendée U                                ,     170.5
+493 ,Nathan  Earle                ,JCL Team UKYO                           ,     170
+494 ,Peerapol  Chawchiangkwang    ,Thailand Continental Cycling Team       ,     169
+495 ,Quentin  Pacher              ,Groupama - FDJ                          ,     169
+496 ,Alessandro De Marchi         ,Team Jayco AlUla                        ,     169
+497 ,Vicente  Rojas               ,Supermercados Froiz                     ,     168
+498 ,Kane  Richards               ,ARA | Skip Capital                      ,     168
+499 ,Kristian  Sbaragli           ,Alpecin - Deceuninck                    ,     168

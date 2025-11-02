@@ -1,0 +1,632 @@
+Event,Date,Country,Rank,Name,Team,Lap1,Lap2,Lap3,Lap4,Lap5,Lap6,Lap7,Lap8,lap9,Time,Gap,Points
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,2,ISERBYT Eli,PAUWELS SAUZEN - BINGOAL,7:28,7:35,7:22,7:17,7:13,7:14,7:15,7:21,,58:56,,40
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,2,SWEECK Laurens,CRELAN-CORENDON,7:28,7:30,7:27,7:23,7:20,7:14,7:19,7:20,,59:13,+17,30
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,3,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,7:28,7:36,7:22,7:23,7:21,7:14,7:19,7:31,,59:24,+28,25
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,4,WYSEURE Joran,CRELAN-CORENDON,7:32,7:37,7:19,7:21,7:24,7:20,7:20,7:26,,59:30,+34,22
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,5,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,7:28,7:41,7:18,7:22,7:21,7:24,7:23,7:33,,59:40,+44,21
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,6,VAN DER HAAR Lars,BALOISE TREK LIONS,7:32,7:33,7:21,7:23,7:24,7:24,7:30,7:32,,59:50,+54,20
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,7,RONHAAR Pim,BALOISE TREK LIONS,7:42,7:31,7:22,7:26,7:28,7:31,7:30,7:24,,1:00:07,+1:11,19
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,8,AERTS Toon,DESCHACHT- HENS-FSP,7:56,7:30,7:29,7:30,7:23,7:28,7:19,7:22,,1:00:11,+1:15,18
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,9,ORTS LLORET Felipe,RIDLEY RACING TEAM,7:36,7:42,7:23,7:28,7:52,7:24,7:17,7:23,,1:00:18,+1:22,17
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,10,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,7:31,7:37,7:28,7:40,7:30,7:33,7:28,7:27,,1:00:25,+1:29,16
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,11,KUYPERS Gerben,CHARLES LIÉGEOIS ROASTERY CX,7:58,7:31,7:34,7:24,7:22,7:25,7:27,7:34,,1:00:28,+1:32,15
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,12,NYS Thibau,BALOISE TREK LIONS,7:34,7:34,7:27,7:29,7:27,7:29,7:30,7:38,,1:00:48,+1:52,14
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,13,KAMP Ryan,,7:42,7:36,7:30,7:32,7:27,7:32,7:34,7:33,,1:00:37,+1:41,13
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,14,ADAMS Jens,,7:43,7:39,7:30,7:33,7:29,7:30,7:36,7:29,,1:00:40,+1:44,12
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,15,BOROŠ Michael,ELKOV - KASPER,7:47,7:36,7:31,7:31,7:30,7:29,7:36,7:31,,1:00:42,+1:46,11
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,16,MICHELS Jente,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,7:50,7:34,7:29,7:29,7:24,7:31,7:43,7:31,,1:00:44,+1:48,10
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,17,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,7:39,7:39,7:32,7:33,7:32,7:32,7:40,7:42,,1:00:59,+2:03,9
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,18,VANDEBOSCH Toon,CRELAN-CORENDON,7:42,7:36,7:29,7:37,7:38,7:38,7:38,7:45,,1:01:14,+2:18,8
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,19,VAN KESSEL Corne,DESCHACHT- HENS-FSP,7:29,7:42,7:25,7:35,7:34,7:49,7:48,7:58,,1:01:32,+2:36,7
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,20,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,7:49,7:38,7:38,7:42,7:39,7:42,7:44,7:36,,1:01:38,+2:42,6
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,21,CORSUS Yordi,PAUWELS SAUZEN - BINGOAL,8:05,7:33,7:45,7:53,7:33,7:35,7:32,7:35,,1:01:43,+2:47,5
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,22,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,7:45,7:37,7:41,7:44,7:34,8:04,7:40,7:34,,1:01:50,+2:54,4
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,23,MEIN Thomas,HOPE FACTORY RACING,7:46,7:33,7:41,7:34,7:43,7:40,7:56,8:01,,1:02:06,+3:10,3
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,24,HAVERDINGS David,BALOISE TREK LIONS,8:23,7:39,7:38,7:39,7:34,7:44,7:43,7:40,,1:02:12,+3:16,2
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,25,MASON Cameron,CYCLOCROSS REDS,7:45,7:36,7:47,7:41,7:41,7:44,8:07,7:50,,1:02:22,+3:26,1
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,26,VAN DEN EIJNDEN Guus,CYCLOCROSS REDS,7:58,7:36,7:41,8:01,7:37,7:44,7:48,7:51,,1:02:29,+3:33,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,27,VAN LIEROP Danny,,7:59,7:59,7:46,7:44,7:43,7:42,7:47,7:49,,1:02:42,+3:46,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,28,MEISEN Marcel,,8:12,7:54,7:52,7:47,7:38,7:44,7:48,7:51,,1:02:58,+4:02,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,29,FIALA Matyáš,ATT INVESTMENTS,8:25,7:46,7:47,7:42,7:51,7:48,7:57,8:01,,1:03:29,+4:33,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,30,VIEZZI Stefano,,8:28,7:51,7:56,7:55,7:53,7:52,7:53,7:46,,1:03:47,+4:51,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,31,MEEUSSEN Witse,CRELAN-CORENDON,9:16,7:45,7:51,7:54,7:47,7:53,7:47,7:36,,1:04:01,+5:05,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,32,CEOLIN Federico,,8:04,7:49,7:54,7:51,7:52,7:50,8:21,8:16,,1:04:10,+5:14,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,33,BOMMENEL Nathan,AS BIKE RACING,8:06,7:47,7:55,7:51,8:20,7:58,8:12,7:53,,1:04:14,+5:18,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,34,SOLEN Keije,CHARLES LIÉGEOIS ROASTERY CX,8:24,8:16,7:57,7:57,7:52,7:52,7:55,7:50,,1:04:15,+5:19,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,35,DEGENKOLB Hannes,HEIZOMAT RADTEAM P/B HERRMANN,8:05,7:53,7:54,7:50,8:11,8:07,8:07,8:08,,1:04:27,+5:31,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,36,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,8:24,7:49,8:00,7:51,7:58,8:19,8:01,8:01,,1:04:37,+5:41,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,37,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,8:02,7:57,7:54,8:00,8:07,8:12,8:08,8:13,,1:04:44,+5:48,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,38,KUSCHLA Silas,,8:30,8:04,8:07,8:13,8:08,8:08,8:09,8:05,,1:05:37,+6:41,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,39,FOLCARELLI Antonio,,8:27,8:05,8:07,8:06,8:01,8:10,8:11,8:35,,1:05:56,+7:00,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,40,OERTZEN Max Heiner,PETER PANE NAGEL CX TEAM,8:46,8:27,7:59,8:03,8:03,8:04,8:17,8:29,,1:06:20,+7:24,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,41,MARASCO Lorenzo,SEBMOTOBIKES CX TEAM,8:31,8:03,8:28,8:16,8:13,8:09,8:06,8:36,,1:06:34,+7:38,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,42,BARD Nicolas,,8:29,8:02,8:15,8:15,8:13,8:20,8:21,8:32,,1:06:40,+7:44,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,43,HARTER Luca,PETER PANE NAGEL CX TEAM,8:32,8:06,8:02,8:26,8:24,8:24,8:24,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,44,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,8:40,8:06,8:06,8:17,8:16,8:23,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,45,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,8:33,8:03,8:10,9:34,8:25,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,46,VARI Simone,,8:43,8:19,8:26,8:35,8:36,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,47,BEHRENS Eike,,8:25,8:32,8:32,8:53,,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,48,KING Carden,,8:55,8:31,8:27,8:42,,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,49,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,8:49,8:27,8:38,8:44,,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,50,REINOSO SANCHEZ Emilio,UNICAJA - GIJON,8:46,8:41,8:36,8:52,,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,51,GUERIN Morgan,,8:56,8:58,8:55,,,,,,,,,0
+UCI Cyclo-Cross World Cup #1 - Antwerp,24 November 2024,BEL,DNF,BARNES Toby,,8:53,8:07,8:07,8:10,,,,,,,,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,1,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,7:10,7:03,7:07,7:22,7:03,7:11,7:11,7:07,,57:26,,40
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,2,AERTS Toon,DESCHACHT- HENS-FSP,7:14,7:06,7:01,7:21,7:06,7:06,7:12,7:08,,57:27,+1,30
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,3,ORTS LLORET Felipe,RIDLEY RACING TEAM,7:10,7:06,7:04,7:24,7:06,7:10,7:10,7:06,,57:27,+1,25
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,4,ISERBYT Eli,PAUWELS SAUZEN - BINGOAL,7:11,7:09,7:00,7:22,7:05,7:12,7:07,7:10,,57:28,+2,22
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,5,WYSEURE Joran,CRELAN-CORENDON,7:11,7:02,7:06,7:24,7:02,7:12,7:10,7:16,,57:35,+9,21
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,6,RONHAAR Pim,BALOISE TREK LIONS,7:10,7:03,7:06,7:22,7:03,7:10,7:13,7:18,,57:38,+12,20
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,7,VAN DER HAAR Lars,BALOISE TREK LIONS,7:13,7:08,7:11,7:16,7:12,7:13,7:02,7:15,,57:42,+16,19
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,8,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,7:18,7:06,7:05,7:20,7:12,7:08,7:14,7:32,,58:06,+40,18
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,9,SWEECK Laurens,CRELAN-CORENDON,7:17,7:08,7:04,7:17,7:08,7:10,7:14,7:41,,58:15,+49,17
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,10,KUYPERS Gerben,CHARLES LIÉGEOIS ROASTERY CX,7:11,7:12,7:06,7:19,7:12,7:13,7:21,7:37,,58:24,+58,16
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,11,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,7:10,7:13,7:12,7:13,7:13,7:16,7:24,7:30,,58:25,+59,15
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,12,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,7:17,7:10,7:15,7:16,7:19,7:24,7:25,7:34,,58:51,+1:25,14
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,13,VENTURINI Clement,ARKEA-B&B HOTELS,7:23,7:03,7:14,7:17,7:18,7:28,7:30,7:32,,58:58,+1:32,13
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,14,ADAMS Jens,,7:27,7:09,7:22,7:24,7:25,7:21,7:25,7:22,,59:05,+1:39,12
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,15,MASON Cameron,CYCLOCROSS REDS,7:31,7:21,7:10,7:21,7:12,7:24,7:31,7:25,,59:08,+1:42,11
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,16,MENUT David,AS BIKE RACING,7:30,7:06,7:14,7:24,7:32,7:24,7:30,7:23,,59:16,+1:50,10
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,17,STROHMEYER Andrew,CXD TREK BIKES,7:20,7:12,7:30,7:21,7:29,7:24,7:24,7:29,,59:23,+1:57,9
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,18,SOETE Daan,RIDLEY RACING TEAM,7:20,7:14,7:22,7:27,7:28,7:29,7:38,7:45,,59:57,+2:31,8
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,19,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,7:32,7:21,7:20,7:27,7:39,7:33,7:26,7:31,,1:00:03,+2:37,7
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,20,ANANIE Ugo,,7:15,7:18,7:25,7:30,7:36,7:38,7:38,7:51,,1:00:22,+2:58,6
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,21,BOROŠ Michael,ELKOV - KASPER,8:05,7:19,7:19,7:28,7:23,7:33,7:40,8:04,,1:01:04,+3:38,5
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,22,GABRIEL Timothé,,7:23,7:30,7:28,7:49,7:24,7:42,7:56,7:48,,1:01:14,+3:48,4
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,23,MOTTIEZ Gilles,,7:30,7:22,7:26,7:38,7:41,7:40,7:56,7:56,,1:01:23,+3:57,3
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,24,VAN KESSEL Corne,DESCHACHT- HENS-FSP,7:19,7:34,7:37,7:32,7:41,7:54,7:55,7:41,,1:01:27,+4:01,2
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,25,WHITE Curtis,,7:36,7:32,7:38,7:46,7:40,7:49,7:41,7:31,,1:01:28,+4:02,1
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,26,REMONDET Valentin,ARDENNES CROSS TEAM GECIBAT,7:26,7:26,7:40,7:38,7:37,7:48,7:58,7:42,,1:01:28,+4:02,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,27,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,7:39,7:48,7:59,7:59,8:02,7:53,8:01,7:55,,1:03:30,+6:04,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,28,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,7:37,7:36,7:55,7:58,8:01,8:00,8:04,8:16,,1:03:41,+6:15,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,29,HARTER Luca,PETER PANE NAGEL CX TEAM,7:36,7:42,8:00,7:59,8:10,8:02,7:56,8:07,,1:03:45,+6:19,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,30,MOORE Darnell,,7:36,7:50,7:57,8:16,8:14,8:15,8:13,8:31,,1:05:06,+7:40,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,31,FREDERICK Ben,,7:39,7:48,7:56,8:18,8:17,8:24,8:22,9:16,,1:06:13,+8:47,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,32,JUNGE Frederick,,7:55,8:13,8:39,8:27,41:22,+5:52,,,,,,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,33,BARRY Richard,,8:13,8:23,8:30,8:26,41:37,+6:07,,,,,,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,34,O REGAN Timothy,,8:15,8:22,8:31,8:26,41:51,+6:21,,,,,,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,35,O REILLY Paul,,8:07,8:28,9:03,34:43,+6:18,,,,,,,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,36,O FLYNN Ronan,,8:20,8:47,9:11,34:50,+6:25,,,,,,,0
+UCI Cyclo-Cross World Cup #2 - Dublin,1 December 2024,IRL,DNF,NYS Thibau,BALOISE TREK LIONS,8:47,7:10,7:22,,,,,,,,,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,1,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,6:49,7:01,6:59,7:05,7:05,7:06,7:05,7:12,6:56,1:03:23,,40
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,2,AERTS Toon,DESCHACHT- HENS-FSP,6:33,7:20,7:11,7:01,7:01,7:07,7:03,7:06,7:07,1:03:34,+11,30
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,3,VERSTRYNGE Emiel,CRELAN-CORENDON,6:39,7:05,7:06,7:05,7:05,7:00,7:11,7:12,7:26,1:03:53,+30,25
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,4,RONHAAR Pim,BALOISE TREK LIONS,6:54,7:05,7:17,7:03,6:56,7:06,7:10,7:13,7:20,1:04:08,+45,22
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,5,DEL GROSSO Tibor,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,6:48,7:07,7:15,7:07,7:13,7:16,7:18,7:12,7:00,1:04:21,+58,21
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,6,SWEECK Laurens,CRELAN-CORENDON,6:36,7:11,7:18,7:11,7:07,7:24,7:20,7:17,6:55,1:04:22,+59,20
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,7,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,6:33,7:07,7:24,7:15,7:15,7:10,7:11,7:16,7:11,1:04:28,+1:05,19
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,8,MICHELS Jente,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,7:06,7:08,7:04,7:06,7:10,7:11,7:15,7:14,7:14,1:04:31,+1:08,18
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,9,WYSEURE Joran,CRELAN-CORENDON,6:46,7:12,7:15,7:05,7:15,7:14,7:19,7:15,7:19,1:04:43,+1:20,17
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,10,VAN DER HAAR Lars,BALOISE TREK LIONS,7:01,7:14,7:13,7:07,7:09,7:15,7:22,7:18,7:17,1:05:02,+1:39,16
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,11,NYS Thibau,BALOISE TREK LIONS,6:41,7:36,7:12,7:06,7:09,7:18,7:21,7:18,7:34,1:05:19,+1:56,15
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,12,VANDEBOSCH Toon,CRELAN-CORENDON,6:59,7:12,7:15,7:13,7:12,7:22,7:11,7:24,7:31,1:05:24,+2:01,14
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,13,MEIN Thomas,HOPE FACTORY RACING,6:53,7:22,7:17,7:09,7:24,7:24,7:31,7:20,7:27,1:05:50,+2:27,13
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,14,ORTS LLORET Felipe,RIDLEY RACING TEAM,6:45,7:25,7:42,7:20,7:28,7:15,7:20,7:22,7:21,1:06:01,+2:38,12
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,15,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,6:40,7:15,7:28,7:21,7:21,7:23,7:27,7:36,7:49,1:06:24,+3:01,11
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,16,KAMP Ryan,,6:54,7:14,7:25,7:21,7:20,7:24,7:38,7:32,7:45,1:06:36,+3:13,10
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,17,BOMMENEL Nathan,AS BIKE RACING,7:07,7:17,7:32,7:28,7:30,7:31,7:26,7:18,7:29,1:06:41,+3:18,9
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,18,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,7:11,7:19,7:19,7:21,7:35,7:40,7:26,7:28,7:23,1:06:46,+3:23,8
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,19,DOCKX Aaron,CRELAN-CORENDON,7:11,7:09,7:39,7:19,7:31,7:35,7:20,7:37,7:32,1:06:57,+3:34,7
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,20,ROUILLER Loris,HEIZOMAT RADTEAM P/B HERRMANN,6:53,7:14,7:25,7:29,7:34,7:32,7:31,7:41,7:44,1:07:07,+3:44,6
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,21,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,6:46,7:20,7:27,7:36,7:38,7:44,7:45,7:26,7:26,1:07:13,+3:50,5
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,22,VAN LIEROP Danny,,7:17,7:14,7:25,7:27,7:27,7:30,7:53,7:25,7:37,1:07:19,+3:56,4
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,23,ACKERT Ian,TREK FUTURE RACING,6:52,7:25,7:31,7:31,7:36,7:35,7:38,7:40,7:41,1:07:33,+4:10,3
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,24,REMONDET Valentin,ARDENNES CROSS TEAM GECIBAT,7:14,7:16,7:32,7:31,7:40,7:40,7:51,7:40,7:37,1:08:04,+4:41,2
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,25,SOETE Daan,RIDLEY RACING TEAM,7:27,7:23,7:24,7:45,7:28,7:29,7:55,7:37,7:38,1:08:11,+4:48,1
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,26,MEISEN Marcel,,7:27,7:32,7:24,7:32,7:31,7:44,7:52,7:46,7:31,1:08:23,+5:00,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,27,AGOSTINACCHIO Filippo,FAS AIRPORT SERVICES - GUERCIOTTI,7:19,7:21,7:41,7:40,7:34,7:33,7:43,7:51,7:45,1:08:31,+5:08,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,28,SOLEN Keije,CHARLES LIÉGEOIS ROASTERY CX,7:34,7:33,7:35,7:36,7:36,7:43,7:48,7:46,7:40,1:08:55,+5:32,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,29,MOTTIEZ Gilles,,7:21,7:29,7:32,7:33,7:42,7:49,7:51,7:53,8:00,1:09:12,+5:49,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,30,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,7:13,7:31,7:37,7:44,7:52,7:45,7:50,7:49,7:53,1:09:17,+5:54,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,31,MARASCO Lorenzo,SEBMOTOBIKES CX TEAM,7:15,7:46,7:42,7:41,7:57,7:41,7:50,7:42,7:46,1:09:23,+6:00,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,32,VAN KESSEL Corne,DESCHACHT- HENS-FSP,7:14,7:06,7:12,7:24,7:34,7:31,8:12,8:25,8:44,1:09:27,+6:04,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,33,DEGENKOLB Hannes,HEIZOMAT RADTEAM P/B HERRMANN,7:03,7:58,7:52,7:46,7:44,7:42,7:47,8:02,8:08,1:10:05,+6:42,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,34,KERL Maximilian,,7:46,7:44,7:47,7:45,7:53,7:54,7:46,7:44,7:45,1:10:10,+6:47,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,35,BARD Nicolas,,7:17,8:00,8:02,7:49,7:52,7:51,7:46,7:45,7:45,1:10:11,+6:48,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,36,VAS Barnabás,,7:28,7:34,7:46,7:32,7:52,7:58,7:59,7:58,8:01,1:10:11,+6:48,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,37,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,7:12,7:45,7:46,7:44,7:49,7:52,8:04,8:06,8:09,1:10:31,+7:08,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,38,SCAPPINI Samuele,BELTRAMI TSA TRE COLLI,7:29,7:32,7:40,7:51,7:49,7:58,7:53,8:11,8:18,1:10:44,+7:21,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,39,TAKÁCS Zsombor,,7:24,7:49,7:47,7:42,7:52,8:24,,,,54:34,+5:37,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,40,JOCHEMS Jelte,,7:28,7:40,7:50,7:56,8:04,7:51,,,,54:36,+5:39,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,41,BEHRENS Eike,,7:19,7:31,8:15,8:29,8:04,,,,,47:43,+5:57,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,42,KUSCHLA Silas,,7:50,7:54,7:52,8:10,8:13,,,,,47:43,+5:57,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,43,CEOLIN Federico,,7:14,7:53,8:05,8:09,8:35,,,,,48:03,+6:17,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,44,MAILLEFER Simon,,7:50,7:50,8:11,8:13,8:10,,,,,48:17,+6:31,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,45,KÖPSEL Jonas,PETER PANE NAGEL CX TEAM,7:51,7:54,8:13,8:12,8:14,,,,,48:26,+6:40,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,46,GAMBORG Jonas Posselt,,7:55,7:55,8:01,8:00,8:08,,,,,48:49,+7:03,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,47,GUÉRIN Morgan,,7:35,8:05,8:11,8:23,,,,,,40:18,+5:33,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,48,SARGENT Liam,,7:55,8:11,8:10,8:23,,,,,,40:35,+5:50,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,49,HARTER Luca,PETER PANE NAGEL CX TEAM,8:54,8:08,8:02,8:09,,,,,,40:54,+6:09,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,50,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,7:55,8:25,8:23,8:21,,,,,,40:55,+6:10,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,51,ANDERSEN Nicolai,,8:01,8:04,8:22,8:35,,,,,,41:05,+6:20,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,52,RUSSELL Evan,HUSTLE PRO CYCLING,7:52,8:21,8:28,8:31,,,,,,41:11,+6:26,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,53,KING Carden,,7:58,8:33,8:16,8:29,,,,,,41:14,+6:29,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,54,CONOD Nicolas,,8:02,8:13,8:19,8:33,,,,,,41:19,+6:34,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,55,FREDERICK Ben,,7:49,8:41,8:27,8:20,,,,,,43:12,+8:27,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,56,GREIJUS Paul,MOTALA AIF SERNEKE ALLEBIKE,8:07,8:36,8:32,,,,,,,33:26,+5:47,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,57,GAFNER Thierry,,8:14,8:32,8:42,,,,,,,33:51,+6:12,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,58,PARENTI Nicola,,8:35,8:36,8:54,,,,,,,34:25,+6:46,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,59,MERINO Fabian,,8:19,8:48,8:53,,,,,,,34:31,+6:52,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,60,REINOSO SANCHEZ Emilio,UNICAJA - GIJON,8:15,9:01,8:46,,,,,,,34:56,+7:17,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,61,CECCHI Filippo,,7:56,9:39,,,,,,,,26:21,+5:47,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,62,MORARD Dimitri,,8:35,9:10,,,,,,,,26:27,+5:53,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,63,BRUYNSEELS Dries,BRUVO DUKLA BRATISLAVA,8:34,9:12,,,,,,,,26:45,+6:11,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,64,STARK Filip,,8:48,9:23,,,,,,,,27:02,+6:28,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,65,KAJI Tetsuki,OLANDA BASE/WATERSLEY,8:39,9:14,,,,,,,,27:02,+6:28,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,66,TURNER Jacob,,7:50,10:13,,,,,,,,27:34,+7:00,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,DNF,KUYPERS Gerben,CHARLES LIÉGEOIS ROASTERY CX,6:34,7:11,7:07,7:08,7:12,7:23,7:27,,,52:12,,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,DNF,BOROŠ Michael,ELKOV - KASPER,7:06,7:15,7:55,7:44,,,,,,31:51,,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,DNF,MEEUSSEN Witse,CRELAN-CORENDON,6:48,7:08,7:10,,,,,,,23:10,,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,DNF,ISERBYT Eli,PAUWELS SAUZEN - BINGOAL,6:43,8:26,,,,,,,,16:55,,0
+UCI Cyclo-Cross World Cup #4 - Namur,15 December 2024,BEL,DNS,HAVERDINGS David,BALOISE TREK LIONS,,,,,,,,,,,,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,1,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,7:52,8:00,8:07,8:23,8:30,8:18,8:30,,,57:55,,40
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,2,ORTS LLORET Felipe,RIDLEY RACING TEAM,8:04,8:11,8:14,8:16,8:20,8:19,8:27,,,58:04,+9,30
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,3,RONHAAR Pim,BALOISE TREK LIONS,8:03,8:18,8:21,8:18,8:15,8:20,8:25,,,58:15,+20,25
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,4,ISERBYT Eli,PAUWELS SAUZEN - BINGOAL,7:58,8:17,8:14,8:18,8:21,8:27,8:42,,,58:31,+36,22
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,5,MASON Cameron,CYCLOCROSS REDS,8:43,8:16,8:11,8:17,8:17,8:20,8:35,,,58:53,+58,20
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,6,VERSTRYNGE Emiel,CRELAN-CORENDON,8:06,8:15,8:13,8:26,8:25,8:42,8:47,,,59:08,+1:13,19
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,7,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,7:56,8:19,8:18,8:55,8:36,8:37,8:30,,,59:25,+1:30,18
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,8,AERTS Toon,DESCHACHT- HENS-FSP,8:24,8:17,8:19,8:30,8:34,8:36,8:37,,,59:31,+1:36,17
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,9,VAN DER HAAR Lars,BALOISE TREK LIONS,7:56,8:25,8:30,8:29,8:41,8:39,8:42,,,59:36,+1:41,16
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,10,MENUT David,AS BIKE RACING,8:37,8:19,8:13,8:27,8:30,8:37,8:48,,,59:44,+1:49,15
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,11,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,8:20,8:15,8:18,8:26,8:38,8:46,8:53,,,59:50,+1:55,14
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,12,VAN KESSEL Corne,DESCHACHT- HENS-FSP,8:41,8:14,8:22,8:36,8:38,8:37,8:36,,,59:59,+2:04,13
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,13,ADAMS Jens,,8:28,8:32,8:18,8:39,8:37,8:38,8:36,,,1:00:02,+2:07,12
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,14,ROUILLER Loris,HEIZOMAT RADTEAM P/B HERRMANN,8:23,8:22,8:18,8:36,8:42,8:55,8:49,,,1:00:20,+2:25,11
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,15,SWEECK Laurens,CRELAN-CORENDON,8:13,8:33,8:15,8:30,8:59,8:49,9:03,,,1:00:36,+2:41,10
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,16,NYS Thibau,BALOISE TREK LIONS,8:05,8:16,8:28,8:38,8:54,8:56,9:32,,,1:01:04,+3:09,9
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,17,KAMP Ryan,,8:47,8:30,8:26,8:43,8:53,8:41,8:50,,,1:01:05,+3:10,8
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,18,VANDEBOSCH Toon,CRELAN-CORENDON,8:52,8:31,8:36,8:33,8:45,8:41,8:57,,,1:01:09,+3:14,7
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,19,STROHMEYER Andrew,CXD TREK BIKES,8:31,8:32,8:34,8:39,9:02,8:44,8:55,,,1:01:10,+3:15,6
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,20,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,8:33,8:40,8:30,8:43,8:56,8:49,8:54,,,1:01:19,+3:24,5
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,21,BOROŠ Michael,ELKOV - KASPER,8:45,8:33,8:45,8:34,8:48,8:53,8:58,,,1:01:30,+3:35,4
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,22,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,8:57,8:30,8:34,8:40,8:51,8:51,9:00,,,1:01:37,+3:42,3
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,23,WYSEURE Joran,CRELAN-CORENDON,8:44,8:34,8:27,9:17,8:57,8:38,8:56,,,1:01:48,+3:53,2
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,24,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,8:28,8:19,8:20,8:24,10:35,8:42,8:52,,,1:01:55,+4:00,1
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,25,FUNSTON Scott,,8:55,8:33,8:49,8:57,8:53,8:51,8:49,,,1:02:01,+4:06,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,26,MOTTIEZ Gilles,,9:23,8:38,8:37,8:41,8:46,8:52,9:02,,,1:02:14,+4:19,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,27,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,8:40,8:42,8:47,8:58,9:11,9:01,9:05,,,1:02:40,+4:45,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,28,PERIOU Tony,,9:03,8:34,8:47,8:52,9:02,9:04,9:20,,,1:02:57,+5:02,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,29,VENTURINI Clement,ARKEA-B&B HOTELS,8:42,8:38,9:04,8:55,9:13,9:07,9:17,,,1:03:11,+5:16,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,30,ANANIE Ugo,,8:42,8:40,9:03,8:54,9:08,9:25,9:14,,,1:03:22,+5:27,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,31,GILLES Cyprien,TEAM GUEVEL ROADBORN,8:54,8:39,8:55,9:10,8:59,9:09,9:26,,,1:03:27,+5:32,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,32,RECULEAU Nicolas,TEAM GUEVEL ROADBORN,9:26,8:51,8:49,8:56,9:11,9:12,9:02,,,1:03:42,+5:47,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,33,MARASCO Lorenzo,SEBMOTOBIKES CX TEAM,8:47,8:58,9:15,8:59,9:16,9:08,9:05,,,1:03:43,+5:48,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,34,KONWA Marek,,8:46,8:43,9:01,9:09,9:37,9:16,9:44,,,1:04:30,+6:35,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,35,HARTER Luca,PETER PANE NAGEL CX TEAM,9:30,8:52,9:01,9:12,9:16,9:19,9:34,,,1:05:00,+7:05,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,36,GABRIEL Timothé,,9:32,9:10,9:03,9:10,9:15,,,,,55:47,+6:41,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,37,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,9:24,9:01,9:37,9:41,9:17,,,,,56:11,+7:05,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,38,KÖPSEL Jonas,PETER PANE NAGEL CX TEAM,9:32,9:01,8:57,9:05,10:12,,,,,56:16,+7:10,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,39,GAßNER Michael,,9:44,9:09,9:10,9:20,9:33,,,,,56:25,+7:19,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,40,SCOTT Cody,COMPETITIVE EDGE RACING,9:16,9:27,9:49,9:18,,,,,,47:00,+6:13,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,41,CALLIGARO Cristian,KTM ALCHEMIST POWERED BY BRENTA BRAKES,9:36,9:09,9:18,9:46,,,,,,47:20,+6:33,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,42,GROENEN Klaas,,9:24,9:20,9:30,9:36,,,,,,47:22,+6:35,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,42,GROENEN Klaas,,9:24,9:20,9:30,9:36,,,,,,47:22,+6:35,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,43,CASTILLE Noé,,9:42,9:13,9:18,9:39,,,,,,47:30,+6:43,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,44,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,10:05,9:15,9:17,9:23,,,,,,47:31,+6:44,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,45,CEOLIN Federico,,9:22,9:38,9:15,9:34,,,,,,47:45,+6:58,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,46,DELNOIJE Remon,,9:56,9:16,9:33,9:40,,,,,,47:59,+7:12,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,47,VAN KEMPEN Jules,,9:52,9:32,9:37,,,,,,,38:42,+6:27,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,48,HAMM Florian,,10:02,9:46,9:35,,,,,,,38:47,+6:32,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,49,BRENNEMAN Owen,CXD TREK BIKES,9:46,9:35,9:52,,,,,,,38:55,+6:40,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,50,ANDERLE Florian,,9:49,9:29,9:46,,,,,,,39:08,+6:53,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,51,RUSSELL Evan,HUSTLE PRO CYCLING,9:56,9:50,9:39,,,,,,,39:23,+7:08,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,52,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,9:52,10:08,10:03,,,,,,,39:55,+7:40,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,53,CECCHI Filippo,,10:20,9:58,10:05,,,,,,,40:29,+8:14,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,54,PARENTI Nicola,,10:15,9:56,10:08,,,,,,,40:32,+8:17,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,55,ROSENDAHL Karl-Erik,,9:43,10:02,10:23,,,,,,,40:32,+8:17,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,56,CONOD Nicolas,,10:15,10:07,9:59,,,,,,,40:36,+8:21,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,57,MERINO Fabian,,10:38,10:14,,,,,,,,31:14,+7:22,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,58,BRUYNSEELS Dries,BRUVO DUKLA BRATISLAVA,10:47,10:52,,,,,,,,32:52,+9:00,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,59,KAJI Tetsuki,OLANDA BASE/WATERSLEY,10:51,11:04,,,,,,,,33:00,+9:08,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,60,HEIGL Philipp,,12:30,,,,,,,,,22:05,+6:19,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,61,OKAYAMA Yuta,OLANDA BASE/WATERSLEY,11:42,,,,,,,,,23:44,+7:58,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,DNF,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,8:33,8:43,8:56,,,,,,,34:34,+3:04,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,DNF,MEIN Thomas,HOPE FACTORY RACING,8:44,8:29,8:46,,,,,,,30:43,+2:11,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,DNF,WIEDMANN Luke,THÖMUS MAXON,9:56,9:28,9:22,,,,,,,37:43,+6:13,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,DNF,BRUNNER Eric,COMPETITIVE EDGE RACING,8:41,8:40,,,,,,,,22:02,+1:44,0
+UCI Cyclo-Cross World Cup #5 - Hulst,21 December 2024,NED,DNF,FREDERICK Ben,,9:50,,,,,,,,,18:22,+3:19,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,1,VAN DER POEL Mathieu,ALPECIN-DECEUNINCK,7:16,7:33,7:27,7:33,7:35,7:34,7:38,7:49,,1:00:39,0:00,40
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,2,NYS Thibau,BALOISE TREK LIONS,7:40,7:41,7:45,7:40,7:43,7:49,7:46,7:52,,1:02:09,+1:30,30
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,3,WYSEURE Joran,CRELAN-CORENDON,7:38,7:47,7:51,7:59,7:35,7:44,7:51,7:34,,1:02:12,+1:33,25
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,4,AERTS Toon,DESCHACHT- HENS-FSP,7:38,7:57,7:43,7:59,7:42,7:44,7:39,7:46,,1:02:20,+1:41,22
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,5,VAN DER HAAR Lars,BALOISE TREK LIONS,7:57,7:41,7:39,7:57,7:35,7:45,7:51,7:48,,1:02:26,+1:47,21
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,6,SWEECK Laurens,CRELAN-CORENDON,7:39,7:47,7:50,8:02,7:49,7:50,7:45,7:36,,1:02:31,+1:52,20
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,7,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,7:47,7:51,7:43,7:55,7:48,7:48,7:49,7:42,,1:02:37,+1:58,19
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,8,ISERBYT Eli,PAUWELS SAUZEN - BINGOAL,7:37,7:51,7:48,7:58,7:41,7:40,7:57,8:16,,1:03:01,+2:22,18
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,9,ADAMS Jens,,7:47,7:50,7:39,7:58,7:51,7:50,7:58,8:01,,1:03:09,+2:30,17
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,10,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,7:55,7:43,7:39,7:58,7:52,7:50,7:58,8:08,,1:03:16,+2:37,16
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,11,RONHAAR Pim,BALOISE TREK LIONS,7:37,7:45,7:55,7:59,7:51,8:17,8:01,7:48,,1:03:24,+2:45,15
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,12,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,7:40,7:53,7:53,7:58,8:04,8:00,8:03,8:04,,1:03:47,+3:08,14
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,13,KAMP Ryan,,8:03,7:53,7:53,8:03,8:03,7:56,7:55,7:53,,1:03:52,+3:13,13
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,14,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,7:53,7:53,7:52,8:03,8:00,8:02,8:03,8:03,,1:04:02,+3:23,12
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,15,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,7:54,8:01,7:56,8:01,8:03,8:02,8:00,7:55,,1:04:05,+3:26,11
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,16,BOROŠ Michael,ELKOV - KASPER,7:56,8:00,7:54,8:03,8:03,7:56,8:03,8:12,,1:04:19,+3:40,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,17,MASON Cameron,CYCLOCROSS REDS,7:56,7:59,7:54,8:04,8:02,8:05,7:58,8:21,,1:04:31,+3:52,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,18,VAN KESSEL Corne,DESCHACHT- HENS-FSP,7:54,8:01,7:54,8:30,8:03,8:13,8:14,8:28,,1:05:31,+4:52,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,19,VERSTRYNGE Emiel,CRELAN-CORENDON,7:54,7:52,8:05,8:03,8:14,8:41,8:08,8:34,,1:05:42,+5:03,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,20,MENUT David,AS BIKE RACING,8:31,8:12,8:12,8:12,8:10,8:12,8:10,8:00,,1:05:53,+5:14,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,21,WIEDMANN Luke,THÖMUS MAXON,8:15,8:08,8:07,8:17,8:08,8:16,8:10,8:21,,1:05:57,+5:18,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,22,VANDEBOSCH Toon,CRELAN-CORENDON,8:02,8:06,8:12,8:14,8:20,8:17,8:15,8:25,,1:06:04,+5:25,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,23,ORTS LLORET Felipe,RIDLEY RACING TEAM,7:56,8:30,7:54,8:06,8:17,8:30,8:27,8:18,,1:06:10,+5:31,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,24,MEISEN Marcel,,8:43,8:11,8:16,8:16,8:11,8:13,8:09,8:00,,1:06:13,+5:34,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,25,VENTURINI Clement,ARKEA-B&B HOTELS,7:54,8:06,8:13,8:07,8:22,8:33,8:24,8:30,,1:06:22,+5:43,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,26,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,8:10,8:14,8:19,8:19,8:21,8:16,8:26,8:32,,1:06:51,+6:12,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,27,GABRIEL Timothé,,8:23,8:21,8:22,8:10,8:30,8:27,8:24,8:16,,1:07:07,+6:28,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,28,FUNSTON Scott,,8:29,8:17,8:16,8:16,8:19,8:21,8:27,8:29,,1:07:07,+6:28,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,29,KONWA Marek,,8:17,8:20,8:06,8:34,8:30,8:27,8:24,8:24,,1:07:16,+6:37,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,30,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,7:55,8:31,8:21,8:31,8:38,8:19,8:28,8:43,,1:07:39,+7:00,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,31,MOTTIEZ Gilles,,8:55,8:20,8:16,8:11,8:28,8:21,8:27,8:57,,1:08:08,+7:29,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,32,THOMAS Théo,SEBMOTOBIKES CX TEAM,8:02,8:22,8:14,8:39,8:38,8:36,8:39,9:06,,1:08:30,+7:51,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,33,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,8:16,8:21,8:23,8:26,8:41,,,,,50:58,+6:02,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,34,STROHMEYER Andrew,CXD TREK BIKES,8:29,8:20,8:48,8:24,8:46,,,,,50:59,+6:03,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,35,BARD Nicolas,,8:37,8:23,8:29,8:33,8:37,,,,,50:59,+6:03,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,36,HOLMGREN Gunnar,,8:47,8:27,8:41,8:23,8:29,,,,,51:17,+6:21,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,37,GILLES Cyprien,TEAM GUEVEL ROADBORN,8:36,8:22,8:27,8:31,8:46,,,,,51:20,+6:24,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,38,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,8:30,8:20,8:26,8:47,8:41,,,,,51:24,+6:28,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,39,CEOLIN Federico,,8:37,8:24,8:31,8:47,8:39,,,,,51:54,+6:58,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,40,MARASCO Lorenzo,SEBMOTOBIKES CX TEAM,8:23,8:36,8:56,8:38,,,,,,43:14,+5:53,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,41,DELNOIJE Remon,,8:44,8:31,8:39,8:48,,,,,,43:21,+6:00,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,42,BRUNNER Eric,,8:26,8:49,8:51,8:40,,,,,,43:26,+6:05,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,43,CALLIGARO Cristian,KTM ALCHEMIST POWERED BY BRENTA BRAKES,8:42,8:32,8:40,8:50,,,,,,43:38,+6:17,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,44,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,8:42,8:52,8:32,8:51,,,,,,43:42,+6:21,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,45,HAMM Florian,,8:46,8:47,8:37,8:44,,,,,,43:51,+6:30,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,46,PERIOU Tony,,8:39,8:33,8:54,8:50,,,,,,43:54,+6:33,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,47,VAN KEMPEN Jules,,9:03,8:43,8:54,8:42,,,,,,44:05,+6:44,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,48,KÖPSEL Jonas,PETER PANE NAGEL CX TEAM,9:00,9:01,8:38,8:54,,,,,,44:13,+6:52,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,49,HARTER Luca,PETER PANE NAGEL CX TEAM,9:05,8:52,8:48,8:53,,,,,,44:23,+7:02,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,50,RECULEAU Nicolas,TEAM GUEVEL ROADBORN,9:03,8:49,8:48,8:56,,,,,,44:41,+7:20,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,51,GAßNER Michael,,8:43,8:50,9:06,8:56,,,,,,44:46,+7:25,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,52,SCOTT Cody,COMPETITIVE EDGE RACING,8:42,9:04,9:03,,,,,,,36:06,+6:20,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,53,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,9:09,8:57,8:59,,,,,,,36:08,+6:22,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,54,ANDERLE Florian,,9:05,8:48,8:48,,,,,,,36:33,+6:47,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,55,HEIGL Philipp,,9:15,8:55,9:10,,,,,,,36:37,+6:51,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,56,BRENNEMAN Owen,CXD TREK BIKES,9:18,9:19,9:08,,,,,,,36:43,+6:57,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,57,FREDERICK Ben,,9:16,9:15,9:16,,,,,,,37:15,+7:29,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,58,ROSENDAHL Karl-Erik,,9:23,9:39,,,,,,,,28:25,+6:12,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,59,CONOD Nicolas,,9:27,9:32,,,,,,,,28:26,+6:13,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,60,GARNIER Léo,,9:24,9:35,,,,,,,,28:33,+6:20,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,61,PARENTI Nicola,,9:34,9:44,,,,,,,,29:09,+6:56,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,62,MERINO Fabian,,9:39,9:48,,,,,,,,29:26,+7:13,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,63,OKAYAMA Yuta,OLANDA BASE/WATERSLEY,10:09,,,,,,,,,20:41,+5:56,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,DNF,CASTILLE Noé,,9:07,,,,,,,,,18:04,,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,DNF,CECCHI Filippo,,9:35,,,,,,,,,13:14,,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,DNF,KAJI Tetsuki,OLANDA BASE/WATERSLEY,9:12,,,,,,,,,,,0
+UCI Cyclo-Cross World Cup #6 - Zonhoven,22 December 2024,BEL,DNF,RUSSELL Evan,HUSTLE PRO CYCLING,,,,,,,,,,,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,1,VAN DER POEL Mathieu,ALPECIN-DECEUNINCK,8:58,9:13,8:54,9:22,9:32,9:31,9:45,,,1:05:29,,40
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,2,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,8:58,9:13,9:21,9:37,9:30,9:24,9:39,,,1:05:55,+26,30
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,3,NYS Thibau,BALOISE TREK LIONS,8:58,9:14,9:20,9:38,9:37,9:32,9:39,,,1:06:10,+41,25
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,4,VAN DER HAAR Lars,BALOISE TREK LIONS,9:08,9:18,9:27,9:30,9:23,9:31,9:53,,,1:06:24,+55,22
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,5,VERSTRYNGE Emiel,CRELAN-CORENDON,9:07,9:17,9:28,9:40,9:31,10:02,9:42,,,1:07:01,+1:32,21
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,6,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,9:08,9:25,9:31,9:43,9:43,9:48,9:45,,,1:07:17,+1:48,20
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,7,DEL GROSSO Tibor,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,9:13,9:30,9:39,9:48,9:42,9:39,9:33,,,1:07:19,+1:50,19
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,8,MASON Cameron,CYCLOCROSS REDS,9:30,9:27,9:35,9:34,9:29,9:43,9:46,,,1:07:21,+1:52,18
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,9,WYSEURE Joran,CRELAN-CORENDON,9:17,9:34,9:33,9:45,9:43,9:44,9:44,,,1:07:35,+2:06,17
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,10,AERTS Toon,DESCHACHT- HENS-FSP,9:21,9:32,9:42,9:39,9:39,9:43,10:03,,,1:07:53,+2:24,16
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,11,VAN KESSEL Corne,DESCHACHT- HENS-FSP,9:07,9:27,9:45,9:50,9:44,9:51,10:12,,,1:08:10,+2:41,15
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,12,RONHAAR Pim,BALOISE TREK LIONS,8:58,9:27,9:36,9:41,9:57,9:58,10:26,,,1:08:15,+2:46,14
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,13,BOROŠ Michael,ELKOV - KASPER,9:16,9:37,9:41,9:48,9:48,10:00,9:54,,,1:08:19,+2:50,13
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,14,VANDEBOSCH Toon,CRELAN-CORENDON,9:18,9:32,9:42,9:49,9:47,10:01,10:09,,,1:08:35,+3:06,12
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,15,MEIN Thomas,HOPE FACTORY RACING,9:21,9:30,9:50,9:53,9:52,10:00,10:05,,,1:08:47,+3:18,11
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,16,MENUT David,AS BIKE RACING,9:46,9:35,9:46,9:51,9:54,9:57,9:48,,,1:08:52,+3:23,10
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,17,ADAMS Jens,,9:22,9:32,9:49,9:53,9:59,10:02,10:06,,,1:08:57,+3:28,9
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,18,MICHELS Jente,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,9:16,9:34,9:33,9:59,9:55,10:31,10:21,,,1:09:24,+3:55,8
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,19,ORTS LLORET Felipe,RIDLEY RACING TEAM,9:37,9:41,9:53,10:01,10:06,9:54,10:18,,,1:09:45,+4:16,7
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,20,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,9:18,9:34,9:53,10:04,10:22,10:12,10:23,,,1:10:00,+4:31,6
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,21,THOMAS Théo,SEBMOTOBIKES CX TEAM,9:52,9:43,9:51,9:49,10:00,10:16,10:21,,,1:10:11,+4:42,5
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,22,ACKERT Ian,TREK FUTURE RACING,9:45,9:42,10:02,10:04,10:10,10:15,10:17,,,1:10:34,+5:05,4
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,23,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,9:54,9:54,9:58,10:11,10:06,10:11,10:18,,,1:10:49,+5:20,3
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,24,RECULEAU Nicolas,TEAM GUEVEL ROADBORN,9:55,9:40,10:02,9:53,10:26,10:22,10:27,,,1:11:03,+5:34,2
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,25,BOMMENEL Nathan,AS BIKE RACING,9:39,9:50,10:11,10:09,10:37,10:04,10:26,,,1:11:12,+5:43,1
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,26,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,9:54,9:57,10:05,10:19,10:07,10:20,10:21,,,1:11:19,+5:50,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,27,HOLMGREN Gunnar,,10:00,9:59,10:07,10:17,10:09,10:25,10:10,,,1:11:22,+5:53,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,28,REMIJN Senna,,9:30,10:08,10:23,10:14,10:23,10:27,10:05,,,1:11:26,+5:57,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,29,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,9:38,9:42,10:07,10:17,10:42,10:30,10:16,,,1:11:28,+5:59,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,30,KAMP Ryan,,10:39,9:50,9:58,10:06,9:55,10:13,10:33,,,1:11:31,+6:02,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,31,VAN DEN EIJNDEN Guus,CYCLOCROSS REDS,9:48,9:52,10:12,10:21,10:22,10:23,10:34,,,1:11:45,+6:16,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,32,FUNSTON Scott,,9:55,10:11,10:11,10:12,10:17,10:26,10:35,,,1:12:02,+6:33,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,33,RODRIGUEZ NOVOA Miguel,,9:35,10:04,10:18,10:24,10:34,10:32,10:40,,,1:12:21,+6:52,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,34,MEISEN Marcel,,9:56,10:08,10:14,10:22,10:32,10:39,10:23,,,1:12:28,+6:59,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,35,ANANIE Ugo,,10:05,10:11,10:04,10:17,10:25,10:36,10:39,,,1:12:35,+7:06,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,36,DUBAU Lucas,,9:57,10:05,10:31,10:58,10:30,,,,,1:02:39,+7:14,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,37,ZAKRAJSEK Dylan,COMPETITIVE EDGE RACING,10:03,10:14,10:21,10:43,10:31,,,,,1:02:45,+7:20,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,38,LEQUET Corentin,AS BIKE RACING,10:13,10:17,10:24,10:34,10:36,,,,,1:02:46,+7:21,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,39,STROHMEYER Andrew,CXD TREK BIKES,11:09,10:18,10:25,10:29,10:25,,,,,1:02:48,+7:23,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,40,DEBORD Romain,AS BIKE RACING,9:47,10:03,10:39,10:45,10:52,,,,,1:03:01,+7:36,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,41,FIALA Matyáš,ATT INVESTMENTS,10:17,10:30,10:42,10:35,10:42,,,,,1:03:10,+7:45,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,42,DE BRUYCKERE Kay,PAUWELS SAUZEN - BINGOAL,11:28,10:02,10:17,10:46,10:20,,,,,1:03:20,+7:55,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,43,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,10:27,10:30,10:34,10:50,10:47,,,,,1:03:46,+8:21,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,44,COOTE Henry,COMPETITIVE EDGE RACING,9:56,10:08,10:24,11:03,10:56,,,,,1:03:53,+8:28,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,45,MASCIARELLI Lorenzo,TEAM MBH BANK COLPACK BALLAN,10:35,10:33,10:42,10:42,10:43,,,,,1:04:03,+8:38,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,46,MIRA BONASTRE Raul,,9:58,10:37,10:47,10:59,10:51,,,,,1:04:12,+8:47,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,47,GAßNER Michael,,10:50,10:33,10:36,10:53,,,,,,53:53,+7:59,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,48,BRUNNER Eric,COMPETITIVE EDGE RACING,10:02,10:47,11:00,11:17,,,,,,54:04,+8:10,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,49,OPPIZZI Matteo,,10:14,10:52,10:58,11:02,,,,,,54:19,+8:25,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,50,PECK Justin,,10:34,10:38,10:50,,,,,,,43:17,+6:56,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,51,MOTTIEZ Gilles,,10:31,10:47,10:55,,,,,,,43:24,+7:03,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,52,WALTER Luke,,10:29,10:47,11:08,,,,,,,43:28,+7:07,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,53,VAS Barnabás,,10:17,10:11,11:21,,,,,,,43:30,+7:09,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,54,WOODFORD Alexander,,10:35,10:37,11:04,,,,,,,43:33,+7:12,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,55,FREDERICK Ben,,10:35,10:52,11:03,,,,,,,43:44,+7:23,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,56,HAMM Florian,,10:40,10:56,11:02,,,,,,,43:58,+7:37,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,57,ODA Hijiri,MATRIX POWERTAG,10:40,11:03,11:11,,,,,,,44:06,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,58,RUSSELL Evan,HUSTLE PRO CYCLING,10:28,11:14,11:11,,,,,,,44:10,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,59,LEIN Lennart,,10:34,10:33,12:03,,,,,,,44:18,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,60,KÖPSEL Jonas,PETER PANE NAGEL CX TEAM,10:53,10:40,11:49,,,,,,,44:31,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,61,VAN KEMPEN Jules,,10:52,11:12,11:28,,,,,,,44:40,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,62,GALAN CORTAZAR Unax,,10:54,11:21,11:13,,,,,,,44:52,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,63,GUÉRIN Morgan,,10:42,11:26,11:15,,,,,,,44:57,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,64,BOLZAN Edoardo,,11:02,11:12,11:35,,,,,,,45:00,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,65,HEIGL Philipp,,11:06,11:12,11:31,,,,,,,46:09,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,66,DRUMMOND Ryan,,11:02,11:19,,,,,,,,34:10,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,67,VALLE ELEGIDO Adrian,,10:53,11:27,,,,,,,,34:15,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,68,GAFNER Thierry,,11:08,11:29,,,,,,,,34:15,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,69,MERINO Fabian,,11:14,11:28,,,,,,,,34:22,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,70,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,11:15,11:36,,,,,,,,34:33,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,71,REINOSO SANCHEZ Emilio,UNICAJA - GIJON,11:17,11:52,,,,,,,,34:40,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,72,BREGENZER Alex,,11:15,11:41,,,,,,,,34:42,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,73,TURNER Jacob,,11:03,11:46,,,,,,,,34:50,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,74,GILIOLI Samuele Silla,,11:06,11:42,,,,,,,,34:57,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,75,GOMEZ VEGA Marcos,,11:06,11:56,,,,,,,,35:03,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,76,GREIJUS Paul,MOTALA AIF SERNEKE ALLEBIKE,11:26,12:00,,,,,,,,35:08,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,77,KAJI Tetsuki,OLANDA BASE/WATERSLEY,11:47,12:41,,,,,,,,33:36,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,78,LUKŠAS Dovydas,,12:08,,,,,,,,,25:15,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,79,SARGENT Liam,,11:17,,,,,,,,,25:53,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,80,OKAYAMA Yuta,OLANDA BASE/WATERSLEY,12:55,,,,,,,,,26:46,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,DNF,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,10:14,10:09,10:36,,,,,,,38:39,,0
+UCI Cyclo-Cross World Cup #7 - Gavere,26 December 2024,BEL,DNF,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,9:32,,,,,,,,,16:41,,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,1,VAN DER POEL Mathieu,ALPECIN-DECEUNINCK,8:29,9:15,9:13,9:19,9:18,9:36,9:44,,,1:04:57,,40
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,2,AERTS Toon,DESCHACHT- HENS-FSP,8:28,9:24,9:21,9:23,9:30,9:28,9:40,,,1:05:17,+20,30
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,3,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,8:37,9:16,9:21,9:29,9:27,9:37,9:43,,,1:05:33,+36,25
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,4,ISERBYT Eli,PAUWELS SAUZEN - BINGOAL,9:05,9:35,9:19,9:17,9:27,9:30,9:31,,,1:05:46,+49,22
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,5,WYSEURE Joran,CRELAN-CORENDON,8:41,9:22,9:22,9:30,9:42,9:37,9:39,,,1:05:55,+58,21
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,6,MEIN Thomas,HOPE FACTORY RACING,8:51,9:29,9:26,9:28,9:41,9:32,9:37,,,1:06:07,+1:10,20
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,7,VANTHOURENHOUT Michael,PAUWELS SAUZEN - BINGOAL,9:11,9:41,9:22,9:28,9:27,9:29,9:34,,,1:06:14,+1:17,19
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,8,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,8:41,9:34,9:33,9:34,9:33,9:40,9:44,,,1:06:23,+1:26,18
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,9,BOROŠ Michael,ELKOV - KASPER,8:51,9:34,9:30,9:29,9:35,9:45,9:45,,,1:06:32,+1:35,17
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,10,ORTS LLORET Felipe,RIDLEY RACING TEAM,8:37,9:40,9:29,9:31,9:37,9:52,9:52,,,1:06:41,+1:44,16
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,11,VERSTRYNGE Emiel,CRELAN-CORENDON,8:38,9:39,9:32,9:33,9:40,10:10,9:46,,,1:07:02,+2:05,15
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,12,DUBAU Joshua,DECATHLON FORD RACING TEAM,8:47,9:34,9:30,9:33,9:35,10:11,9:53,,,1:07:07,+2:10,14
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,13,VENTURINI Clement,ARKEA-B&B HOTELS,8:50,9:33,9:33,9:39,9:47,9:55,9:52,,,1:07:11,+2:14,13
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,14,VAN KESSEL Corne,DESCHACHT- HENS-FSP,8:49,9:41,9:41,9:56,9:46,9:42,9:39,,,1:07:18,+2:21,12
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,15,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,8:49,9:29,9:42,9:45,9:59,9:45,9:51,,,1:07:23,+2:26,11
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,16,ADAMS Jens,,8:47,9:33,9:33,9:47,9:45,10:09,9:53,,,1:07:30,+2:33,10
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,17,VANDEBOSCH Toon,CRELAN-CORENDON,8:43,9:45,9:43,9:41,9:45,9:59,10:08,,,1:07:46,+2:49,9
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,18,SWEECK Laurens,CRELAN-CORENDON,8:47,9:30,9:33,9:32,10:02,10:08,10:32,,,1:08:06,+3:09,8
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,19,RONHAAR Pim,BALOISE TREK LIONS,8:40,9:47,9:47,10:02,10:02,10:03,9:55,,,1:08:18,+3:21,7
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,20,FUNSTON Scott,,9:20,9:39,9:48,9:46,9:46,10:06,9:58,,,1:08:25,+3:28,6
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,21,MENUT David,AS BIKE RACING,8:58,9:44,9:55,9:57,9:41,10:23,9:57,,,1:08:37,+3:40,5
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,22,GROSLAMBERT Martin,JB BRUNEX SUPERIOR FACTORY RACING,9:08,9:52,9:47,9:46,10:03,10:00,10:03,,,1:08:42,+3:45,4
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,23,DOUBEY Fabien,TOTALENERGIES,9:08,9:41,9:46,9:49,9:59,10:12,10:19,,,1:08:57,+4:00,3
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,24,LOOCKX Lander,TDT-UNIBET,9:06,9:45,10:03,9:57,10:03,9:59,10:07,,,1:09:03,+4:06,2
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,25,KAMP Ryan,,8:42,10:12,9:47,10:02,10:09,10:11,9:59,,,1:09:06,+4:09,1
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,26,WIEDMANN Luke,THÖMUS MAXON,9:21,9:49,10:00,9:59,10:02,10:02,10:04,,,1:09:20,+4:23,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,27,ROUILLER Loris,HEIZOMAT RADTEAM P/B HERRMANN,8:37,9:30,9:53,10:07,10:23,10:34,10:21,,,1:09:29,+4:32,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,28,RECULEAU Nicolas,TEAM GUEVEL ROADBORN,8:55,9:39,9:54,10:03,10:18,10:41,10:15,,,1:09:49,+4:52,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,29,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,9:25,10:04,10:05,10:04,10:07,10:02,10:07,,,1:09:56,+4:59,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,30,BETON Damien,,9:24,9:54,9:53,10:07,10:12,10:24,10:29,,,1:10:26,+5:29,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,31,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,8:55,9:59,10:17,10:37,10:23,10:29,9:59,,,1:10:41,+5:44,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,32,DUBAU Lucas,,9:20,9:57,10:10,10:08,10:21,10:28,10:17,,,1:10:44,+5:47,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,33,GABRIEL Timothé,,9:26,10:15,10:23,10:28,10:06,10:13,10:10,,,1:11:04,+6:07,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,34,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,9:25,9:55,10:06,10:12,10:04,10:08,11:15,,,1:11:09,+6:12,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,35,KONWA Marek,,9:10,10:20,10:12,10:17,10:20,10:31,10:19,,,1:11:12,+6:15,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,36,FORSTER Lars,THÖMUS MAXON,9:32,9:52,10:43,10:14,10:08,10:20,10:23,,,1:11:15,+6:18,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,37,BRUNNER Eric,COMPETITIVE EDGE RACING,9:20,10:08,10:04,10:48,10:13,10:21,10:29,,,1:11:25,+6:28,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,38,LELANDAIS Rémi,ARKEA-B&B HOTELS CONTINENTALE,9:05,9:46,10:01,10:09,10:48,10:46,10:59,,,1:11:37,+6:40,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,39,CEOLIN Federico,,9:04,10:13,10:24,10:17,10:30,10:39,10:36,,,1:11:46,+6:49,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,40,REMONDET Valentin,ARDENNES CROSS TEAM GECIBAT,9:08,10:19,10:13,10:18,10:30,10:32,10:48,,,1:11:53,+6:56,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,41,BARD Nicolas,,9:16,10:19,10:18,10:27,10:28,10:30,10:53,,,1:12:14,+7:17,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,42,NAVARRO Quentin,,9:24,9:59,10:24,10:17,10:50,10:42,10:52,,,1:12:30,+7:33,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,43,WHITE Curtis,,9:23,10:13,10:19,10:27,10:36,10:51,11:36,,,1:13:27,+8:30,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,44,KÖPSEL Jonas,PETER PANE NAGEL CX TEAM,9:30,10:37,10:38,10:42,10:47,,,,,1:02:58,+8:17,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,45,BRENNEMAN Owen,CXD TREK BIKES,9:41,10:33,10:32,10:54,10:51,,,,,1:03:00,+8:19,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,46,CALLIGARO Cristian,KTM ALCHEMIST POWERED BY BRENTA BRAKES,9:31,10:21,10:53,10:57,11:00,,,,,1:03:04,+8:23,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,47,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,9:39,10:43,10:29,10:45,10:55,,,,,1:03:11,+8:30,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,48,VAN KEMPEN Jules,,9:52,10:36,10:29,11:01,,,,,,52:27,+7:22,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,49,FREDERICK Ben,,9:46,10:49,10:50,11:05,,,,,,53:09,+8:04,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,50,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,9:51,11:05,10:57,11:19,,,,,,54:04,+8:59,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,51,MAILLEFER Simon,,9:52,10:56,11:06,11:12,,,,,,54:05,+9:00,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,52,HEIGL Philipp,,10:29,11:24,11:30,,,,,,,44:28,+8:41,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,53,GILIOLI Samuele Silla,,10:27,11:30,11:50,,,,,,,45:18,+9:31,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,54,ZECCHINI Simone,,10:28,11:49,,,,,,,,33:56,+7:29,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,55,MARZANI Marco,,10:30,12:14,,,,,,,,34:08,+7:41,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,56,SUZUKI Raito,,10:46,12:36,,,,,,,,35:08,+8:41,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,57,SPADONI Gabriele,,10:49,12:53,,,,,,,,35:43,+9:16,0
+UCI Cyclo-Cross World Cup #8 - Besançon,29 December 2024,FRA,DNF,STROHMEYER Andrew,CXD TREK BIKES,9:22,10:43,,,,,,,,27:57,+3:43,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,1,VAN AERT Wout,TEAM VISMA | LEASE A BIKE,7:57,7:39,7:30,7:36,7:43,7:45,8:03,8:23,,1:02:49,,40
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,2,VERSTRYNGE Emiel,CRELAN-CORENDON,7:53,7:45,7:44,7:53,7:59,8:07,8:14,8:22,,1:04:09,+1:20,30
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,3,WYSEURE Joran,CRELAN-CORENDON,7:58,8:01,8:00,7:56,7:59,8:04,8:03,8:16,,1:04:30,+1:41,25
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,4,AERTS Toon,DESCHACHT- HENS-FSP,7:53,7:48,7:58,8:04,8:01,8:15,8:25,8:06,,1:04:41,+1:52,22
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,5,VANTHOURENHOUT Michael,PAUWELS SAUZEN - CIBEL CLEMENTINES,8:03,8:15,7:45,8:02,7:55,8:08,8:15,8:38,,1:05:13,+2:24,21
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,6,RONHAAR Pim,BALOISE GLOWI LIONS,7:52,7:48,7:57,8:09,8:24,8:22,8:29,8:18,,1:05:32,+2:43,20
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,7,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,8:02,7:57,7:50,8:05,8:05,8:34,8:28,8:24,,1:05:38,+2:49,19
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,8,NYS Thibau,BALOISE GLOWI LIONS,7:58,8:24,7:50,7:54,8:05,8:23,8:57,8:20,,1:06:03,+3:14,18
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,9,MASON Cameron,SEVEN RACING,8:14,8:32,8:06,8:00,8:15,8:14,8:17,8:15,,1:06:04,+3:15,17
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,10,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,8:02,7:57,7:59,8:07,8:22,8:28,8:35,8:42,,1:06:24,+3:35,16
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,11,ISERBYT Eli,PAUWELS SAUZEN - CIBEL CLEMENTINES,8:14,8:04,8:10,8:16,8:25,8:18,8:26,8:30,,1:06:35,+3:46,15
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,12,ORTS LLORET Felipe,RIDLEY RACING TEAM,8:08,8:02,8:01,8:12,8:22,8:35,8:32,8:36,,1:06:41,+3:52,14
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,13,VANDEBOSCH Toon,CRELAN-CORENDON,8:14,8:04,8:09,8:14,8:27,8:25,8:26,8:31,,1:06:43,+3:54,13
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,14,DUBAU Joshua,DECATHLON FORD RACING TEAM,8:21,7:57,8:08,8:13,8:28,8:19,8:26,8:38,,1:06:43,+3:54,12
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,15,BOROŠ Michael,ELKOV - KASPER,8:14,8:04,7:57,8:26,8:28,8:27,8:35,8:36,,1:06:58,+4:09,11
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,16,KAMP Ryan,,8:10,8:00,8:05,8:25,8:27,8:33,8:35,8:53,,1:07:21,+4:32,10
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,17,VAN KESSEL Corne,DESCHACHT- HENS-FSP,7:57,8:01,8:00,8:18,8:20,8:38,9:00,9:13,,1:07:40,+4:51,9
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,18,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,8:14,8:13,8:10,8:25,8:15,8:41,8:43,8:49,,1:07:44,+4:55,8
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,19,VAN DER HAAR Lars,BALOISE GLOWI LIONS,8:15,8:12,8:11,8:24,8:15,8:26,8:53,9:07,,1:07:55,+5:06,7
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,20,VIEZZI Stefano,,8:38,8:04,8:02,8:28,8:40,8:44,8:35,8:38,,1:08:02,+5:13,6
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,21,VANDENBERGHE Viktor,PAUWELS SAUZEN - CIBEL CLEMENTINES,8:21,8:13,8:14,8:43,8:40,8:32,8:31,8:52,,1:08:19,+5:30,5
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,22,FERDINANDE Anton,,8:29,8:10,8:30,8:31,8:31,8:46,8:51,8:52,,1:08:53,+6:04,4
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,23,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,8:14,8:14,8:10,8:24,8:35,8:46,8:58,9:26,,1:08:59,+6:10,3
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,24,DE BRAUWERE Sil,PAUWELS SAUZEN - CIBEL CLEMENTINES,8:38,8:13,8:17,8:30,8:37,8:49,8:50,9:07,,1:09:15,+6:26,2
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,25,REMIJN Senna,,8:28,8:09,8:31,8:46,8:39,8:54,9:06,9:32,,1:10:19,+7:30,1
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,26,WHITE Curtis,,8:39,8:22,8:32,8:45,8:49,9:02,,,,59:58,+6:44,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,27,VENTURINI Clement,ARKEA-B&B HOTELS,8:32,8:16,8:22,8:41,8:51,9:02,,,,1:00:02,+6:48,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,28,GROSLAMBERT Martin,,8:28,8:22,8:32,8:40,9:00,9:06,,,,1:00:17,+7:03,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,29,BEHRENS Eike,,8:20,8:29,8:36,8:52,9:04,,,,,51:14,+6:02,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,30,TAKÁCS Zsombor,,8:54,8:39,8:43,8:44,8:42,,,,,51:34,+6:22,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,31,LELANDAIS Rémi,ARKEA-B&B HOTELS CONTINENTALE,8:35,8:38,8:33,9:00,8:57,,,,,51:47,+6:35,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,32,BETON Damien,,8:37,8:44,8:54,8:52,8:52,,,,,51:53,+6:41,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,33,KUSCHLA Silas,,8:48,8:28,9:08,8:50,8:46,,,,,51:55,+6:43,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,34,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,8:38,8:58,8:43,9:04,8:39,,,,,51:58,+6:46,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,35,FIALA Matyáš,,8:46,8:48,8:45,8:42,8:56,,,,,52:03,+6:51,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,36,HOJKA František,,8:43,8:32,8:35,8:42,9:10,,,,,52:07,+6:55,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,37,ST ONGE Maxime,,8:38,8:37,8:59,9:02,9:00,,,,,52:09,+6:57,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,38,HARTER Luca,,8:45,8:43,8:55,8:54,9:02,,,,,52:17,+7:05,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,39,ZAKRAJSEK Dylan,COMPETITIVE EDGE RACING,8:48,8:35,8:44,9:07,9:11,,,,,52:25,+7:13,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,40,GROENENDAAL Bailey,,8:52,8:40,8:49,9:00,9:06,,,,,52:35,+7:23,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,41,GABRIEL Timothé,,8:36,9:00,8:41,8:58,,,,,,43:34,+6:05,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,42,VAS Barnabás,,8:45,8:40,8:51,8:59,,,,,,43:38,+6:09,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,43,HAVERDINGS Floris,,8:51,8:33,8:51,9:20,,,,,,43:55,+6:26,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,44,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,8:58,8:57,9:05,9:07,,,,,,44:16,+6:47,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,45,SHELTON Noah,,9:05,8:49,9:05,9:03,,,,,,44:17,+6:48,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,46,KOECH Silas,PETER PANE NAGEL CX TEAM,9:01,8:48,9:03,9:08,,,,,,44:24,+6:55,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,47,BREGENZER Alex,,9:18,9:04,9:14,,,,,,,35:50,+6:03,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,48,CRISPIN Mickaël,,8:47,8:56,9:30,,,,,,,35:54,+6:07,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,49,KUBA Jakub,ELKOV - KASPER,9:13,9:10,9:08,,,,,,,35:55,+6:08,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,50,ODA Hijiri,,9:09,9:02,9:14,,,,,,,35:56,+6:09,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,51,KING Carden,,9:12,9:10,9:19,,,,,,,35:57,+6:10,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,52,BOLZAN Edoardo,,9:07,9:02,9:40,,,,,,,36:14,+6:27,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,53,VAN KEMPEN Jules,,9:25,9:05,9:20,,,,,,,36:18,+6:31,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,54,PECK Justin,,9:34,9:21,9:13,,,,,,,36:27,+6:40,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,55,FREDERICK Ben,,9:19,9:20,9:35,,,,,,,36:31,+6:44,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,56,WOODFORD Alexander,,9:12,9:09,9:10,,,,,,,36:35,+6:48,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,57,MERINO Fabian,,9:24,9:29,9:40,,,,,,,36:55,+7:08,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,58,SCOTT Cody,COMPETITIVE EDGE RACING,9:12,9:26,9:50,,,,,,,37:08,+7:21,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,59,DELGROSSO Ethan,COMPETITIVE EDGE RACING,9:33,9:33,9:39,,,,,,,37:15,+7:28,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,60,GUÉRIN Morgan,,9:16,10:08,9:31,,,,,,,37:36,+7:49,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,61,FERRI Tommaso,FAS AIRPORT SERVICES - GUERCIOTTI,9:38,9:45,9:54,,,,,,,37:59,+8:12,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,62,SARGENT Liam,,9:20,9:26,10:30,,,,,,,38:27,+8:40,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,63,VALENTINI Matteo,,9:40,9:40,10:05,,,,,,,38:34,+8:47,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,64,SUZUKI Raito,,9:47,10:06,,,,,,,,28:42,+6:31,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,65,ENDO Kosuke,OLANDA BASE/WATERSLEY,9:46,10:06,,,,,,,,28:49,+6:38,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,66,STARK Filip,,10:05,10:28,,,,,,,,29:40,+7:29,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,67,ZECCHINI Simone,,9:46,10:38,,,,,,,,30:34,+8:23,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,68,KAJI Tetsuki,OLANDA BASE/WATERSLEY,10:43,10:38,,,,,,,,30:57,+8:46,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,69,BRUYNSEELS Dries,BRUVO DUKLA BRATISLAVA,10:08,11:14,,,,,,,,31:32,+9:21,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,70,OKAYAMA Yuta,OLANDA BASE/WATERSLEY,10:29,11:01,,,,,,,,32:04,+9:53,0
+UCI Cyclo-Cross World Cup #9 - Dendermonde,5 Janvier 2025,BEL,DNF,MEISEN Marcel,,9:26,9:23,,,,,,,,20:56,+3:35,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,1,NYS Thibau,BALOISE GLOWI LIONS,7:11,7:06,7:00,6:58,7:05,7:13,7:01,6:45,,56:31,,40
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,2,ISERBYT Eli,PAUWELS SAUZEN - CIBEL CLEMENTINES,7:08,7:07,7:01,7:00,7:04,7:07,7:07,6:47,,56:34,+3,30
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,3,VAN DER HAAR Lars,BALOISE GLOWI LIONS,7:09,7:06,7:01,7:00,7:06,7:05,7:07,6:48,,56:35,+4,25
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,4,VAN AERT Wout,TEAM VISMA | LEASE A BIKE,7:16,7:05,6:59,6:59,7:03,7:11,7:01,6:50,,56:37,+6,22
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,5,VANTHOURENHOUT Michael,PAUWELS SAUZEN - CIBEL CLEMENTINES,7:08,7:08,7:00,7:01,7:04,7:14,7:01,6:54,,56:41,+10,21
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,6,ORTS LLORET Felipe,RIDLEY RACING TEAM,7:08,7:07,7:00,7:01,7:05,7:13,7:02,6:55,,56:43,+12,20
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,7,VANDEPUTTE Niels,ALPECIN-DECEUNINCK DEVELOPMENT TEAM,7:10,7:06,7:01,7:04,7:03,7:10,7:04,6:56,,56:46,+15,19
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,8,NIEUWENHUIS Joris,RIDLEY RACING TEAM,7:31,6:58,7:00,6:59,7:01,7:06,7:02,7:00,,56:49,+18,18
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,9,VERSTRYNGE Emiel,CRELAN-CORENDON,7:08,7:08,7:02,6:59,7:04,7:12,7:10,6:58,,56:54,+23,17
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,10,DUBAU Joshua,,7:24,7:02,7:02,7:01,7:01,7:07,7:05,7:03,,56:56,+25,16
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,11,VENTURINI Clement,ARKEA-B&B HOTELS,7:19,7:04,7:00,7:00,7:06,7:08,7:05,7:12,,57:06,+35,15
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,12,ADAMS Jens,,7:15,7:07,7:04,7:05,7:07,7:06,7:03,7:09,,57:10,+39,14
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,13,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,7:12,7:06,7:01,7:10,7:09,7:09,7:02,7:12,,57:15,+44,13
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,14,AERTS Toon,DESCHACHT- HENS-FSP,7:08,7:09,7:06,7:09,7:17,7:12,7:04,7:01,,57:17,+46,12
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,15,WYSEURE Joran,CRELAN-CORENDON,7:15,7:10,7:12,7:07,7:08,7:08,7:05,7:03,,57:20,+49,11
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,16,VANDEBOSCH Toon,CRELAN-CORENDON,7:14,7:08,7:06,7:05,7:06,7:08,7:07,7:19,,57:26,+55,10
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,17,GROSLAMBERT Martin,,7:24,7:04,7:05,7:08,7:05,7:11,7:11,7:09,,57:32,+1:01,9
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,18,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,7:22,7:07,7:06,7:07,7:06,7:14,7:08,7:15,,57:37,+1:06,8
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,19,MEIN Thomas,HOPE FACTORY RACING,7:21,7:06,7:04,7:09,7:06,7:18,7:07,7:21,,57:44,+1:13,7
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,20,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,7:11,7:11,7:11,7:07,7:08,7:14,7:10,7:30,,57:54,+1:23,6
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,21,SWEECK Laurens,CRELAN-CORENDON,7:17,7:09,7:02,7:05,7:06,7:00,7:04,8:01,,57:55,+1:24,5
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,22,RONHAAR Pim,BALOISE GLOWI LIONS,7:12,7:07,7:02,6:58,7:02,7:15,7:48,7:19,,57:56,+1:25,5
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,23,MASON Cameron,SEVEN RACING,7:51,7:05,7:13,7:08,7:07,7:04,7:08,7:07,,57:57,+1:26,4
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,24,KAMP Ryan,,7:17,7:09,7:07,7:11,7:08,7:09,7:42,7:15,,58:10,+1:39,3
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,25,MEEUSSEN Witse,CRELAN-CORENDON,7:14,7:13,7:05,7:06,7:43,7:16,7:16,7:09,,58:14,+1:43,2
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,26,VAN KESSEL Corne,DESCHACHT- HENS-FSP,7:11,7:09,7:13,7:30,7:15,7:19,7:15,7:16,,58:21,+1:50,1
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,27,BOROŠ Michael,ELKOV - KASPER,7:13,7:13,7:10,7:19,7:22,7:18,7:17,7:18,,58:23,+1:52,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,28,INGUANZO MACHO Gonzalo,,7:21,7:09,7:13,7:18,7:16,7:18,7:20,7:19,,58:27,+1:56,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,29,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,7:23,7:10,7:13,7:14,7:19,7:21,7:20,7:44,,58:57,+2:26,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,30,BRUNNER Eric,COMPETITIVE EDGE RACING,7:20,7:12,7:18,7:26,7:28,7:28,7:22,7:33,,59:20,+2:49,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,31,STROHMEYER Andrew,CXD TREK BIKES,7:23,7:17,7:21,7:34,7:17,7:19,7:30,7:46,,59:38,+3:07,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,32,ROUILLER Loris,HEIZOMAT RADTEAM P/B HERRMANN,7:12,7:27,7:26,7:21,7:25,7:29,7:33,7:40,,59:46,+3:15,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,33,GILLES Cyprien,TEAM GUEVEL ROADBORN,7:28,7:11,7:19,7:25,7:28,7:34,7:47,7:30,,59:56,+3:25,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,34,CEOLIN Federico,,7:26,7:17,7:22,7:25,7:27,7:33,7:42,7:35,,1:00:00,+3:29,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,35,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,7:17,7:27,7:25,7:32,7:34,7:33,7:33,7:34,,1:00:08,+3:37,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,36,WHITE Curtis,,7:35,7:22,7:35,7:37,7:35,7:23,7:34,7:31,,1:00:25,+3:54,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,37,VAN KEMPEN Jules,,7:39,7:27,7:29,7:33,7:35,7:31,7:29,7:33,,1:00:29,+3:58,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,38,ODA Hijiri,,7:23,7:33,7:36,7:36,7:35,7:30,7:30,7:35,,1:00:31,+4:00,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,39,OVIN VICTORERO David,,7:40,7:27,7:29,7:33,7:35,7:35,7:33,7:31,,1:00:36,+4:05,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,40,GABRIEL Timothé,,7:38,7:28,7:30,7:33,7:34,7:37,7:31,7:36,,1:00:39,+4:08,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,41,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,7:37,7:24,7:31,7:36,7:35,7:34,7:35,7:35,,1:00:40,+4:09,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,42,HARTER Luca,,7:30,7:29,7:36,7:36,7:35,7:39,7:42,7:45,,1:01:06,+4:35,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,43,SANCHEZ ALDEGUER Manuel,,7:39,7:28,7:34,7:30,7:41,7:56,7:56,8:09,,1:02:07,+5:36,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,44,SCOTT Cody,COMPETITIVE EDGE RACING,7:34,7:33,7:49,7:57,7:55,7:53,7:52,7:59,,1:02:45,+6:14,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,45,GOMEZ ELORRIAGA Iñigo,,7:40,7:39,7:59,7:52,7:57,7:55,,,,54:20,+5:21,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,46,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,7:49,7:47,7:58,7:57,8:06,8:02,,,,54:56,+5:57,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,47,SPADONI Gabriele,,8:02,8:05,8:08,8:03,8:08,,,,,47:55,+6:01,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,48,DIEZ ARRIOLA Jose Antonio,,7:52,7:51,8:01,8:05,8:16,,,,,48:02,+6:08,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,49,ZECCHINI Simone,,8:03,8:10,8:34,8:06,,,,,,40:26,+5:42,0
+UCI Cyclo-Cross World Cup #10 - Benidorm,19 Janvier 2025,ESP,50,KAJI Tetsuki,OLANDA BASE/WATERSLEY,8:29,8:37,8:24,,,,,,,33:16,+5:36,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,1,VAN DER POEL Mathieu,ALPECIN-DECEUNINCK,7:59,8:15,8:12,8:13,8:20,8:23,8:26,,,57:51,,40
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,2,VAN AERT Wout,TEAM VISMA | LEASE A BIKE,8:06,8:28,8:30,8:23,8:23,8:37,8:35,,,59:05,+1:14,30
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,3,NIEUWENHUIS Joris,RIDLEY RACING TEAM,7:59,8:38,8:36,8:37,8:36,8:35,8:39,,,59:44,+1:53,25
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,4,WYSEURE Joran,CRELAN-CORENDON,8:06,8:32,8:38,8:37,8:37,8:38,8:46,,,59:56,+2:05,22
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,5,AERTS Toon,DESCHACHT- HENS-FSP,8:08,8:34,8:37,8:38,8:49,8:43,8:36,,,1:00:07,+2:16,21
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,6,VANTHOURENHOUT Michael,PAUWELS SAUZEN - CIBEL CLEMENTINES,8:02,8:36,8:42,8:38,8:49,8:42,9:15,,,1:00:45,+2:54,20
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,7,VAN DER HAAR Lars,BALOISE GLOWI LIONS,8:05,8:35,8:41,8:47,8:41,8:37,9:33,,,1:01:03,+3:12,19
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,8,SWEECK Laurens,CRELAN-CORENDON,8:09,8:36,8:37,8:38,8:50,9:15,9:08,,,1:01:15,+3:24,18
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,9,KUHN Kevin,CHARLES LIÉGEOIS ROASTERY CX,8:12,8:51,8:56,8:57,8:53,8:52,8:43,,,1:01:27,+3:36,17
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,10,MEIN Thomas,HOPE FACTORY RACING,8:16,8:50,8:56,8:57,8:52,8:53,8:41,,,1:01:28,+3:37,16
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,11,VERSTRYNGE Emiel,CRELAN-CORENDON,8:05,9:20,8:40,8:50,8:53,8:45,8:50,,,1:01:28,+3:37,15
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,12,MASON Cameron,SEVEN RACING,8:28,8:46,8:49,8:59,9:03,8:40,8:43,,,1:01:31,+3:40,14
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,13,HENDRIKX Mees,HEIZOMAT RADTEAM P/B HERRMANN,8:16,8:49,8:55,8:58,8:52,8:51,9:01,,,1:01:46,+3:55,13
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,14,VAN DE PUTTE Victor,DESCHACHT- HENS-FSP,8:27,8:52,8:49,8:54,8:56,8:55,9:04,,,1:02:00,+4:09,12
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,15,ORTS LLORET Felipe,RIDLEY RACING TEAM,8:07,9:19,8:41,8:50,8:57,9:05,9:01,,,1:02:04,+4:13,11
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,16,MEISEN Marcel,,8:36,8:49,8:54,8:50,9:04,9:05,8:46,,,1:02:07,+4:16,10
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,17,ADAMS Jens,,8:29,8:47,8:46,8:58,9:04,9:24,8:55,,,1:02:27,+4:36,9
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,18,ISERBYT Eli,PAUWELS SAUZEN - CIBEL CLEMENTINES,8:45,9:05,8:57,8:57,9:01,8:51,9:00,,,1:02:39,+4:48,8
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,19,BOROŠ Michael,ELKOV - KASPER,8:28,8:50,8:47,9:22,9:13,8:58,9:04,,,1:02:45,+4:54,7
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,20,VENTURINI Clement,ARKEA-B&B HOTELS,8:24,8:53,9:11,9:07,9:06,9:06,9:13,,,1:03:02,+5:11,6
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,21,KAMP Ryan,,8:46,8:48,9:35,8:55,8:56,8:56,9:17,,,1:03:15,+5:24,5
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,22,BOMMENEL Nathan,AS BIKE RACING,8:59,9:09,9:01,9:02,9:02,9:06,9:00,,,1:03:22,+5:31,4
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,23,HAVERDINGS David,BALOISE GLOWI LIONS,9:03,9:12,9:07,9:04,9:05,8:57,8:53,,,1:03:25,+5:34,3
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,24,GROSLAMBERT Martin,,8:53,8:53,8:57,9:03,9:08,9:16,9:16,,,1:03:30,+5:39,2
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,25,BERTOLINI Gioele,FAS AIRPORT SERVICES - GUERCIOTTI,8:33,8:58,9:03,9:10,9:21,9:27,9:13,,,1:03:48,+5:57,1
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,26,FUNSTON Scott,,8:34,8:59,9:13,9:15,9:15,9:19,9:22,,,1:04:01,+6:10,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,27,KONWA Marek,,8:33,9:01,9:13,9:08,9:14,9:26,9:28,,,1:04:06,+6:15,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,28,FERDINANDE Anton,,9:10,9:16,9:09,9:01,9:12,9:12,9:18,,,1:04:21,+6:30,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,29,SUAREZ FERNANDEZ Kevin,NESTA - MMR CYCLING TEAM,8:53,9:17,9:17,9:13,9:19,9:32,9:17,,,1:04:50,+6:59,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,30,JEŽEK Václav,BRILON RACING TEAM MB,8:52,9:18,9:18,9:15,9:20,9:26,9:29,,,1:05:02,+7:11,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,31,KERL Maximilian,,8:47,9:33,9:17,9:15,9:20,9:23,9:35,,,1:05:14,+7:23,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,32,VAS Barnabás,,8:44,9:25,9:19,9:15,9:44,9:30,9:20,,,1:05:20,+7:29,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,33,VAN LIEROP Danny,,9:21,9:33,9:18,9:11,9:19,9:17,9:17,,,1:05:20,+7:29,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,34,JUNQUERA SAN MILLAN Mario,UNICAJA - GIJON,8:46,9:16,9:24,9:21,9:35,9:31,9:25,,,1:05:21,+7:30,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,35,BRUNNER Eric,COMPETITIVE EDGE RACING,9:12,9:26,9:23,9:22,9:19,9:24,9:17,,,1:05:26,+7:35,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,36,VAN KESSEL Corne,DESCHACHT- HENS-FSP,8:58,9:01,9:11,9:23,9:40,9:38,9:42,,,1:05:38,+7:47,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,37,TAKÁCS Zsombor,,9:04,9:24,9:21,9:30,9:28,9:28,9:33,,,1:05:51,+8:00,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,38,JOT Matéo,,8:59,9:16,9:20,9:18,9:38,9:39,9:50,,,1:06:03,+8:12,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,39,GILLES Cyprien,TEAM GUEVEL ROADBORN,8:54,9:28,9:26,9:30,9:27,9:36,10:16,,,1:06:39,+8:48,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,40,DEGENKOLB Hannes,HEIZOMAT RADTEAM P/B HERRMANN,9:03,9:21,9:36,9:17,9:28,9:53,10:26,,,1:07:07,+9:16,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,41,BARD Nicolas,,9:00,9:23,9:24,9:35,,,,,,46:41,+5:59,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,42,ANANIE Ugo,,9:19,9:19,9:37,9:30,,,,,,46:42,+6:00,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,43,WHITE Curtis,,9:11,9:43,9:21,9:23,,,,,,46:47,+6:05,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,44,ZAKRAJSEK Dylan,COMPETITIVE EDGE RACING,9:28,9:21,9:24,9:26,,,,,,46:56,+6:14,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,45,VAN KEMPEN Jules,,8:59,9:33,9:38,9:37,,,,,,46:57,+6:15,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,46,DE BRAUWERE Sil,PAUWELS SAUZEN - CIBEL CLEMENTINES,9:51,9:25,9:19,9:25,,,,,,47:00,+6:18,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,47,MENUT David,AS BIKE RACING,8:57,9:16,9:37,9:22,,,,,,47:13,+6:31,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,48,JANOUT Jan,,9:04,9:39,9:37,9:35,,,,,,47:17,+6:35,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,49,KUSCHLA Silas,,9:30,9:42,9:33,9:31,,,,,,47:23,+6:41,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,50,CORRES IBAÑEZ DE OPAKUA Gorka,,9:25,9:28,9:35,9:33,,,,,,47:24,+6:42,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,51,DELNOIJE Remon,,9:22,9:31,9:39,9:35,,,,,,47:29,+6:47,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,52,HERRMANN Lukas,HEIZOMAT RADTEAM P/B HERRMANN,9:10,9:48,9:35,9:40,,,,,,47:32,+6:50,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,53,GAMBORG Jonas Posselt,,9:32,9:43,9:42,9:33,,,,,,47:34,+6:52,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,54,HARTER Luca,,9:07,9:36,9:52,9:39,,,,,,47:39,+6:57,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,55,KÖPSEL Jonas,PETER PANE NAGEL CX TEAM,9:28,9:51,9:36,9:35,,,,,,47:44,+7:02,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,56,SOMMER Lars,HEIZOMAT RADTEAM P/B HERRMANN,9:15,9:31,9:45,10:01,,,,,,47:49,+7:07,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,57,CLARK Tyler,,9:10,9:33,9:45,10:00,,,,,,48:09,+7:27,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,58,STROHMEYER Andrew,CXD TREK BIKES,8:46,9:36,9:48,10:16,,,,,,48:19,+7:37,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,59,OERTZEN Max Heiner,PETER PANE NAGEL CX TEAM,9:29,9:57,9:50,,,,,,,38:42,+6:20,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,60,RAUTZENBERG Robin,,9:36,9:45,9:56,,,,,,,38:47,+6:25,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,61,MARASCO Lorenzo,SEBMOTOBIKES CX TEAM,9:22,9:56,9:58,,,,,,,38:50,+6:28,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,62,OBERTEICHER Matteo,PETER PANE NAGEL CX TEAM,9:33,9:56,10:19,,,,,,,39:36,+7:14,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,63,HEIGL Philipp,,9:39,10:16,10:06,,,,,,,39:40,+7:18,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,64,GARNEK Ksawier,,9:18,10:27,10:02,,,,,,,39:42,+7:20,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,65,KING Carden,,9:40,10:06,10:12,,,,,,,39:52,+7:30,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,66,SOEJIMA Tatsuumi,,9:26,10:07,10:30,,,,,,,40:07,+7:45,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,67,SCOTT Cody,,9:41,10:20,10:31,,,,,,,40:23,+8:01,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,68,FERNANDEZ DE LA PEÑA AGUIRRE Beñat,,9:36,10:15,10:34,,,,,,,40:35,+8:13,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,69,ENDO Kosuke,OLANDA BASE/WATERSLEY,9:51,10:20,,,,,,,,30:30,+6:21,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,70,ODA Hijiri,OLANDA BASE/WATERSLEY,9:11,9:32,,,,,,,,30:28,+6:19,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,71,YUNOKI Shingen,,9:23,9:53,,,,,,,,31:24,+7:15,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,72,GLAJZA Ondrej,BRUVO DUKLA BRATISLAVA,10:04,10:53,,,,,,,,31:49,+7:40,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,73,STARK Filip,,10:03,11:20,,,,,,,,31:59,+7:50,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,74,KAJI Tetsuki,OLANDA BASE/WATERSLEY,10:25,11:05,,,,,,,,32:50,+8:41,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,75,CHANDLER Markus,,10:44,,,,,,,,,21:59,+6:03,0
+UCI Cyclo-Cross World Cup #11 - Maasmechelen,25 Janvier 2025,BEL,DNF,RONHAAR Pim,BALOISE GLOWI LIONS,8:11,8:52,9:23,,,,,,,31:13,+3:08,0
